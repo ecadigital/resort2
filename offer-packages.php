@@ -28,7 +28,7 @@
         
         
         <div id="inner-wrapper">
-	        <h1 class="left">Restaurant</h1>
+	        <h1 class="left">Offerrrrr</h1>
 	     </div>
         <!--inner-wrapper-->
         
@@ -102,7 +102,7 @@ local Thai food and International favorite dishes.  </p>
        
                
         
-        <div class="gotop">ff
+        <div class="gotop">
 	        <img src="images/gotop.png">
         </div>
         
@@ -116,7 +116,7 @@ local Thai food and International favorite dishes.  </p>
         
         <script>
 	        $(document).ready(function(){
-		        $('#offerassss').addClass('active');
+		        $('#offera').addClass('active');
 		        $(this).areaAnimate0();
 	        });
         </script>
