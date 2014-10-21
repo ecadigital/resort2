@@ -28,77 +28,31 @@
         
         
         <div id="inner-wrapper">
-	        <h1 class="left">Offerrrrr</h1>
+	        <h1 class="left">Special Occasions</h1>
 	     </div>
         <!--inner-wrapper-->
         
        
-       
        <div id="wrap-inner">
-	       <div>
-		       <img src="images/res-head.jpg">
-	       </div>
-	       <div class="contentsam">
-	       <div class="p45">
-		       <p>This is the first chapel designed restaurant ever built 
-in Thailand.  <br>A7 meters high ceiling with  round-shaped 
-light boxes represent stained glass give an impression 
-of a grand dining hall in a chapel.  A 12 meters tower 
-and roof tiles can be seen from a far distance, even after nightfall.</p>
+	    	<div id="special-wrapper">
+	    		<div class="blog">
+	    			<div class="blog-in">
+	    			<p>We cater for special occasions<br>
+	    			 such as Birthday Party,<br>
+					 Weddings or any given special<br>
+					 days for guests and family. <br> </p>
+					 <div class="white-line"></div>
+					 <p>Please do contact us <br>
+					 for more information at<br> : cm@laprovenceSP.com</p>
+	    			</div>
+	    		</div>
+	    		</div>
+	    	</div>
+	    	<div id="sp-img1" class="overflow"><img src="img/sp-img1.jpg">
+	    	</div>
+	    	<div id="sp-img2" class="overflow"><img src="img/sp-img2.jpg">
+	    	</div>
 
-  
-<p>French windows along the yellow-color wall, 
-contrast with purple window frame put a modern touch 
-to overall building.  Fabric used for table clothes are 
-original from Provence and represents what we care for; 
-“Fresh Ingredient” from local markets and a real 
-“Original Taste” of each dish.  The restaurant serves 
-local Thai food and International favorite dishes.  </p>
-	       </div>
-	       
-	       
-	       <div class="img50">
-		       <img src="images/res3.jpg">
-	       </div>
-	       <div class="clearfix"></div>
-	       
-	       		 <div class="linelarge">
-			        <img src="images/flowerline.jpg">
-		        </div>
-		        <div class="clearfix"></div>
-		        
-		        
-		        
-		        
-		        <div class="imgsam">
-			        <img src="images/sam1.jpg">
-		        </div>
-		        
-		        
-		        
-		        
-		        <div class="linelarge">
-			        <img src="images/flower-line2.jpg">
-		        </div>
-		        <div class="clearfix"></div>
-		        
-		        
-		        <div class="imgsam">
-			        <img src="images/res4.jpg">
-		        </div>
-		        
-		        
-		        
-		        <div class="linelarge">
-			        <img src="images/flower-line3.jpg">
-		        </div>
-		        <div class="clearfix"></div>
-		        
-	       </div>
-	       <!--contentsam-->
-	       
-       </div>
-       <!--wrap-inner-->
        
                
         
@@ -107,6 +61,7 @@ local Thai food and International favorite dishes.  </p>
         </div>
         
         
+        </div>
        
         
         
