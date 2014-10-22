@@ -106,7 +106,7 @@
                     <img src="images/flowerline.jpg">
                 </div>
                 <div class="clearfix"></div>
-             <h1 class="left fleft">Pre-wedding photo shooting package</h1><h2>*Monday to Friday only*</h2>
+             <h1 class="left fleft">Pre-wedding photo shooting package</h1><h2 class="h2small h2right">*Monday to Friday only*</h2>
             <div id="pw-left">
                 <div id="blog3">
                     <div id="blog-in3">
@@ -163,7 +163,7 @@
             <div id="as-left">
              <h1 class="left">Activities <br>
                 & Services</h1>
-                <h2>1.  Half-day trip to Huay Kok Moo 
+                <h2 class="h2small">1.  Half-day trip to Huay Kok Moo 
     plus Kayak<br><br>
 2.  ……..</h2>
                 </div>
