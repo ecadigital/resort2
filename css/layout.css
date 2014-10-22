@@ -861,6 +861,10 @@ form input[type="text"]{
  margin: 0px;
 }
 
+.h2small{
+	font-size: 15px;
+}
+
 ul.smallli {
  margin: 0px;
  }
