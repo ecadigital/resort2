@@ -154,20 +154,22 @@ local Thai food and International favorite dishes.  </p>
                             of THB 300,000.- <br>
                              <div class="white-line"></div>
                             Inclusive of ;<br>
-                            -   Superior and Deluxe Villas <br>
-                                with 3 persons sharing per room<br>
-                            -   One Two-bedroom Villa <br>
-                                for 5 persons sharing in room<br>
-                            -   Breakfast for all guests in-house <br>
+                            <ul>
+                            <li>Superior and Deluxe Villas <br>
+                                with 3 persons sharing per room</li>
+                            <li>One Two-bedroom Villa <br>
+                                for 5 persons sharing in room</li>
+                            <li>Breakfast for all guests in-house <br>
                                 on the following day <br>
-                                (counting at 50 persons)<br>
-                            -   A buffet for 80 to 100 guests <br>
+                                (counting at 50 persons)</li>
+                            <li>A buffet for 80 to 100 guests <br>
                                 inside dining hall   <br>   
-                                with soft drinks for 3 hours.<br>
-                            -   A flower decoration as per La Provence <br>
-                                (to be discussed with guests directly)<br>
-                            -   A complimentary stay for Bride & Groom <br>
-                                one night prior to the event <br>
+                                with soft drinks for 3 hours.</li>
+                            <li>A flower decoration as per La Provence <br>
+                                (to be discussed with guests directly)</li>
+                            <li>A complimentary stay for Bride & Groom <br>
+                                one night prior to the event </li>
+                            </ul>    
                                  <div class="white-line"></div>
                                  Please contact us for more information <br>
                                 at : cm@laprovenceSP.com
@@ -185,31 +187,35 @@ local Thai food and International favorite dishes.  </p>
             <div id="pw-left">
                 <div id="blog3">
                     <div id="blog-in3">
-                        <span>PACKAGE I  at 4,000 Baht <br><br>
+                        <span>PACKAGE I  at 4,000 Baht <br>
                         A special price when guest buy one<br>
                         night accommodation through hotel<br>
                         at normal rate.  Please call hotel <br>
                         directly to request.<br><br>
-                        PACKAGE II  at 7,000 Baht<br> <br>
+                        PACKAGE II  at 7,000 Baht<br>
                         One day package<br> 
                         with no accommodation<br>
                          <div class="white-line"></div>
-                        Inclusive of;<br>
-                        -   Photo shooting time starting <br>
+                        Inclusive of;
+                        <ul class="smallli">
+                        <li>Photo shooting time starting <br>
                             from 9 am to 7 pm<br> 
-                            (outdoor area only)<br>
-                        -   Photo shooting at The Pool is<br>           
-                        allow till 4 pm. Only.<br> 
-                        -   Indoor photo shooting at Bride<br> 
-                             & Groom’s room.<br>
-                        Remark;<br>
-                        -   Pets are not allow in the property.<br>
-                        -   No outside food allow in hotel<br> 
-                            and restaurant area.<br>
-                        -   Props, chairs and hotel belongings<br>      in rooms, restaurant and all            outdoor area can not be move from       original place.  
-                        -   A cash deposit of BHT 2,000 is to <br>      be place upon check-in to 
-                            guaranteed for any damage in hotel<br>      property. Hotel will return if no       damage occur upon check-out.
-
+                            (outdoor area only)</li>
+                        <li>Photo shooting at The Pool is<br>           
+                        allow till 4 pm. Only.</li>
+                        <li>Indoor photo shooting at Bride<br> 
+                             & Groom’s room.</li>
+                             </ul>
+                        Remark;
+                    
+                        <ul class="smallli">
+                        <li>Pets are not allow in the property.</li>
+                        <li>No outside food allow in hotel<br> 
+                            and restaurant area.</li>
+                        <li>Props, chairs and hotel belongings<br>      in rooms, restaurant and all  <br>           outdoor area can not be move from     <br>   original place.</li>  
+                        <li>A cash deposit of BHT 2,000 is to <br>      be place upon check-in to <br> 
+                            guaranteed for any damage in hotel<br>      property. Hotel will return if no <br>       damage occur upon check-out.</li>
+                            </ul>
                             </span>
                     </div>
                 </div>
