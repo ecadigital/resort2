@@ -22,10 +22,11 @@
     font-style: normal;
 
 }
-
-*{  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
-  box-sizing: border-box;         /* Opera/IE 8+ */}
+*,*:before,*:after{
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
 body{
 	color: #59595B;
 	font-family: 'db75naraimodernregular';
@@ -420,6 +421,58 @@ p{
 	padding-top: 0px;
 	margin-top: 0px;
 }
+.p50{
+	width: 50%;
+	float: left;	
+}
+form h1{
+	color: #7F73BA;
+	font-family: 'vientoregular';
+	display: block;
+	margin-top: 40px;
+	font-weight: normal;
+	font-size: 32px;
+	position: relative;
+	z-index: 11;
+}
+form label{
+	display: block;
+	margin-top: 13px;
+	margin-bottom: 13px;
+}
+form input[type="submit"]{
+	border-style: solid;
+	border-width: 0px;
+	font-family: inherit;
+	width: 100%;
+	color: #fff;
+	padding: 6px 0px;
+	background-color: #724C9F;
+}
+form input[type="submit"]:focus,
+form input[type="text"]:focus,
+form textarea{
+	outline: 0;
+}
+form input[type="text"],
+form textarea{
+	font-family: inherit;
+	background-color: #EAD7EA;
+	-webkit-appearance: none;
+	-webkit-border-radius: 0px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #fff;
+	font-size: 12px;
+	width: 100%;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+form input[type="text"]{
+	height: 30px;
+	padding: 0px 5px;
+}
 
 .contentsam{
 	padding-top: 20px;
@@ -811,6 +864,7 @@ p{
 ul.smallli {
  margin: 0px;
  }
+<<<<<<< HEAD
 
 .h2small {
 	font-size: 15px;
@@ -819,3 +873,5 @@ ul.smallli {
 .h2right {
 	float: right;
 }
+=======
+>>>>>>> origin/tttt
