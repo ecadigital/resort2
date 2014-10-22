@@ -775,3 +775,21 @@ p{
 	height: 266px;
 	
 }
+
+.rv-left {
+	width: 472px;
+	height: auto;
+	float: left;
+	margin-right: 17px;
+}
+
+.rv-right {
+	width: 471px;
+	height: auto;
+	float: left;
+}
+
+.rv-right a{
+	color: #59595B;
+ text-decoration: none;
+}
