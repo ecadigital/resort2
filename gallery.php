@@ -100,7 +100,6 @@ local Thai food and International favorite dishes.  </p>
 	       
        </div>
        <!--wrap-inner-->
-       
         
         
         
