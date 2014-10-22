@@ -34,71 +34,90 @@
         
        
        
-       <div id="wrap-inner">
-	       <div>
-		       <img src="images/res-head.jpg" alt="">
-	       </div>
-	       <div class="contentsam">
-	       <div class="p45">
-		       <p>
-		       This is the first chapel designed restaurant ever built 
-				in Thailand.  <br>A7 meters high ceiling with  round-shaped 
-				light boxes represent stained glass give an impression 
-				of a grand dining hall in a chapel.  A 12 meters tower 
-				and roof tiles can be seen from a far distance, even after nightfall.</p>
+        <div id="wrap-inner">
+            <div class="contentsam">
+                <div class="tiles">
+                    <div class="tile double">
+                        <a class="group1" href="images/gallery-1.jpg">
+                            <img src="images/gallery-1.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/gallery-2.jpg">
+                            <img src="images/gallery-2.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile block last">
+                        <a class="group1" href="images/gallery-3.jpg">
+                            <img src="images/gallery-3.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="tiles">
+                    <div class="tile">
+                        <a class="group1" href="images/gallery-4.jpg">
+                            <img src="images/gallery-4.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/gallery-5.jpg">
+                            <img src="images/gallery-5.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile double block last">
+                        <a class="group1" href="images/gallery-6.jpg">
+                            <img src="images/gallery-6.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="tiles">
+                    <div class="tile double-vertical">
+                        <a class="group1" href="images/gallery-7.jpg">
+                            <img src="images/gallery-7.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/gallery-8.jpg">
+                            <img src="images/gallery-8.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/gallery-9.jpg">
+                            <img src="images/gallery-9.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile block last">
+                        <a class="group1" href="images/gallery-10.jpg">
+                            <img src="images/gallery-10.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="tiles">
+                    <div class="tile">
+                        <a class="group1" href="images/gallery-11.jpg">
+                            <img src="images/gallery-11.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/gallery-12.jpg">
+                            <img src="images/gallery-12.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile block last">
+                        <a class="group1" href="images/gallery-13.jpg">
+                            <img src="images/gallery-13.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
 
-  
-<p>French windows along the yellow-color wall, 
-contrast with purple window frame put a modern touch 
-to overall building.  Fabric used for table clothes are 
-original from Provence and represents what we care for; 
-“Fresh Ingredient” from local markets and a real 
-“Original Taste” of each dish.  The restaurant serves 
-local Thai food and International favorite dishes.  </p>
-	       </div>
-	       
-	       
-	       <div class="img50">
-		       <img src="images/res3.jpg" alt="">
-	       </div>
-	       <div class="clearfix"></div>
-	       
-	       		 <div class="linelarge">
-			        <img src="images/flowerline.jpg" alt="">
-		        </div>
-		        <div class="clearfix"></div>
-		        
-		        
-		        
-		        
-		        <div class="imgsam">
-			        <img src="images/sam1.jpg" alt="">
-		        </div>
-		        
-		        
-		        
-		        
-		        <div class="linelarge">
-			        <img src="images/flower-line2.jpg" alt="">
-		        </div>
-		        <div class="clearfix"></div>
-		        
-		        
-		        <div class="imgsam">
-			        <img src="images/res4.jpg" alt="">
-		        </div>
-		        
-		        
-		        
-		        <div class="linelarge">
-			        <img src="images/flower-line3.jpg" alt="">
-		        </div>
-		        <div class="clearfix"></div>
-		        
-	       </div>
-	       <!--contentsam-->
-	       
-       </div>
+                <div class="linelarge">
+                    <img src="images/flower-line3.jpg" alt="">
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <!--contentsam-->
+
+        </div>
        <!--wrap-inner-->
         
         
@@ -108,8 +127,10 @@ local Thai food and International favorite dishes.  </p>
         
         <script>
 	        $(document).ready(function(){
-		        $('#offera').addClass('active');
-		        $(this).areaAnimate0();
+		        $('#gallerya').addClass('active');
+		        $('.tile>a').colorbox({
+                    rel: "group1"
+                });
 	        });
         </script>
     </body>
