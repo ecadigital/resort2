@@ -52,7 +52,7 @@
 		       		<label for="#">Subject *</label>
 		       		<input type="text">
 		       		<label for="#">Message *</label>
-		       		<textarea name="textarea" cols="30" rows="10"></textarea>
+		       		<textarea name="textarea" cols="30" rows="10" style="height: 315px;"></textarea>
 		       		<label>Send copy to yourself <input type="checkbox" name="sendback" value="1"></label>
 		       		<input type="submit" value="Send Mail">
 	       		</form>
