@@ -474,6 +474,64 @@ form input[type="text"]{
 	padding: 0px 5px;
 }
 
+/* start tile */
+.tiles .block {
+  display: block !important;
+  float: none !important;
+}
+.tiles .tile {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  float: left;
+  margin: 0 10px 10px 0;
+  padding: 0;
+  cursor: pointer;
+  background-color: #eeeeee;
+  box-shadow: inset 0px 0px 1px #FFFFCC;
+}
+/*.tiles .tile:hover {
+  outline: #999999 solid 3px;
+}*/
+.tiles .tile:active {
+  outline: 0;
+}
+.tiles .tile.no-outline {
+  outline-color: transparent;
+}
+.tiles .tile {
+  width: 225px;
+  height: 225px;
+  margin: 0 20px 19px 0;
+}
+.tiles .tile.half {
+  width: 55px;
+  height: 55px;
+}
+.tiles .tile.double {
+  width: 470px;
+}
+.tiles .tile.double-vertical {
+  height: 470px;
+}
+.tiles .tile.triple {
+  width: 380px;
+}
+.tiles .tile.triple-vertical {
+  height: 380px;
+}
+.tiles .tile.quadro {
+  width: 510px;
+}
+.tiles .tile.quadro-vertical {
+  height: 510px;
+}
+
+.tiles .tile.last{
+	margin-right: 0;
+}
+/* stop tile */
+
 .contentsam{
 	padding-top: 20px;
 }
