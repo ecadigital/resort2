@@ -40,7 +40,7 @@
 	       </div>
 	       <div class="contentsam">
 		       <div class="linelarge">
-					<img src="images/line4.jpg" alt="border 4">
+		       		<img src="images/flower-line7.jpg" alt="flower border 7">
 		       </div>
 	       		<form action="#" method="POST" class="p50" style="padding-right: 44px;">
 		       		<h1 style="margin-top: -34px;">Contact us</h1>
@@ -63,7 +63,7 @@
 		       <div class="clearfix"></div>
 	       
 				<div class="linelarge">
-			        <img src="images/line-large.jpg" alt="border large">
+			        <img src="images/flower-line8.jpg" alt="flower border 8">
 		        </div>
 		        <div class="clearfix"></div>
 	       </div>
