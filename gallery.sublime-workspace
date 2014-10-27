@@ -28,10 +28,13 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <title></title>\n        <meta name=\"description\" content=\"\">\n        <meta name=\"viewport\" content=\"width=1167\">\n\n        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n\n        <link rel=\"stylesheet\" href=\"css/normalize.css\">\n        <link rel=\"stylesheet\" href=\"css/main.css\">\n        <link rel=\"stylesheet\" href=\"css/layout.css\">\n        <script src=\"js/vendor/modernizr-2.6.2.min.js\"></script>\n    </head>\n    <body>\n        <!--[if lt IE 7]>\n            <p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n        <![endif]-->\n\n        \n        \n        <?php include(\"inc-topmenu.php\");?>\n        \n        \n        <div id=\"inner-wrapper\">\n	        <h1 class=\"left\">Gallery</h1>\n	    </div>\n        <!--inner-wrapper-->\n        \n       \n       \n        <div id=\"wrap-inner\">\n            <div class=\"contentsam\">\n                <div class=\"tiles\">\n                    <div class=\"tile double\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-1.jpg\">\n                            <img src=\"images/gallery-1.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-2.jpg\">\n                            <img src=\"images/gallery-2.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block last\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-3.jpg\">\n                            <img src=\"images/gallery-3.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-4.jpg\">\n                            <img src=\"images/gallery-4.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-5.jpg\">\n                            <img src=\"images/gallery-5.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile double block last\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-6.jpg\">\n                            <img src=\"images/gallery-6.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile double-vertical\">\n                        <a class=\"group1\" href=\"images/gallery-7.jpg\">\n                            <img src=\"images/gallery-7.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-8.jpg\">\n                            <img src=\"images/gallery-8.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-9.jpg\">\n                            <img src=\"images/gallery-9.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block last\">\n                        <a class=\"group1\" href=\"images/gallery-10.jpg\">\n                            <img src=\"images/gallery-10.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-11.jpg\">\n                            <img src=\"images/gallery-11.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-12.jpg\">\n                            <img src=\"images/gallery-12.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block last\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-13.jpg\">\n                            <img src=\"images/gallery-13.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    \n                    <div class=\"tile double\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-14.jpg\">\n                            <img src=\"images/gallery-14.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-15.jpg\">\n                            <img src=\"images/gallery-15.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile double-vertical last\" style=\"float: right;\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-16.jpg\">\n                            <img src=\"images/gallery-16.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-17.jpg\">\n                            <img src=\"images/gallery-17.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-18.jpg\">\n                            <img src=\"images/gallery-18.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-19.jpg\">\n                            <img src=\"images/gallery-19.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/galleryfull/gallery-20.jpg\">\n                            <img src=\"images/gallery-20.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallerfull/gallery-21.jpg\">\n                            <img src=\"images/gallery-21.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-22.jpg\">\n                            <img src=\"images/gallery-22.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block\">\n                        <a class=\"group1\" href=\"images/gallery-23.jpg\">\n                            <img src=\"images/gallery-23.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-24.jpg\">\n                            <img src=\"images/gallery-24.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-25.jpg\">\n                            <img src=\"images/gallery-25.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-26.jpg\">\n                            <img src=\"images/gallery-26.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block\">\n                        <a class=\"group1\" href=\"images/gallery-27.jpg\">\n                            <img src=\"images/gallery-27.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-28.jpg\">\n                            <img src=\"images/gallery-28.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-29.jpg\">\n                            <img src=\"images/gallery-29.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-30.jpg\">\n                            <img src=\"images/gallery-30.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block\">\n                        <a class=\"group1\" href=\"images/gallery-31.jpg\">\n                            <img src=\"images/gallery-31.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-32.jpg\">\n                            <img src=\"images/gallery-32.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-33.jpg\">\n                            <img src=\"images/gallery-33.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-34.jpg\">\n                            <img src=\"images/gallery-34.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block\">\n                        <a class=\"group1\" href=\"images/gallery-35.jpg\">\n                            <img src=\"images/gallery-35.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-36.jpg\">\n                            <img src=\"images/gallery-36.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-37.jpg\">\n                            <img src=\"images/gallery-37.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-38.jpg\">\n                            <img src=\"images/gallery-38.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block\">\n                        <a class=\"group1\" href=\"images/gallery-39.jpg\">\n                            <img src=\"images/gallery-39.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-40.jpg\">\n                            <img src=\"images/gallery-40.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-41.jpg\">\n                            <img src=\"images/gallery-41.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-42.jpg\">\n                            <img src=\"images/gallery-42.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block\">\n                        <a class=\"group1\" href=\"images/gallery-43.jpg\">\n                            <img src=\"images/gallery-43.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n                <div class=\"tiles\">\n                    <div class=\"tile double\">\n                        <a class=\"group1\" href=\"images/gallery-44.jpg\">\n                            <img src=\"images/gallery-44.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile\">\n                        <a class=\"group1\" href=\"images/gallery-45.jpg\">\n                            <img src=\"images/gallery-45.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                    <div class=\"tile block\">\n                        <a class=\"group1\" href=\"images/gallery-46.jpg\">\n                            <img src=\"images/gallery-46.jpg\" alt=\"\">\n                        </a>\n                    </div>\n                </div>\n\n                <div class=\"linelarge\">\n                    <img src=\"images/flower-line3.jpg\" alt=\"\">\n                </div>\n                <div class=\"clearfix\"></div>\n            </div>\n            <!--contentsam-->\n\n        </div>\n       <!--wrap-inner-->\n        \n        \n        \n<?php include('inc-footer.php');?> \n        \n        \n        <script>\n	        $(document).ready(function(){\n		        $('#gallerya').addClass('active');\n		        $('.tile>a').colorbox({\n                    rel: \"group1\",\n                    fixed: true,\n                    maxWidth: \"100%\",\n                    maxHeight: \"100%\"\n                });\n	        });\n        </script>\n    </body>\n</html>\n",
 			"file": "gallery.php",
+			"file_size": 14358,
+			"file_write_time": 130588659937753987,
 			"settings":
 			{
-				"buffer_size": 6922,
+				"buffer_size": 14033,
 				"line_ending": "Windows"
 			}
 		},
@@ -79,16 +82,16 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 311.0,
+		"height": 127.0,
 		"selected_items":
 		[
 			[
-				"Package Control: ",
-				"Package Control: Enable Package"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
 			],
 			[
 				"intall",
@@ -162,6 +165,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gallery",
+			"32",
+			"25",
 			"0",
 			"9",
 			"8",
@@ -214,19 +220,27 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6922,
+						"buffer_size": 14033,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6184,
-								6184
+								6879,
+								6879
 							],
 							[
-								6246,
-								6246
+								6941,
+								6941
+							],
+							[
+								7115,
+								7115
+							],
+							[
+								7177,
+								7177
 							]
 						],
 						"settings":
@@ -239,56 +253,56 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"hasHeader": false,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
@@ -296,7 +310,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2220.0,
+						"translation.y": 2428.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

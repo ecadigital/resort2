@@ -38,73 +38,73 @@
             <div class="contentsam">
                 <div class="tiles">
                     <div class="tile double">
-                        <a class="group1" href="images/gallery-1.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-1.jpg">
                             <img src="images/gallery-1.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-2.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-2.jpg">
                             <img src="images/gallery-2.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block last">
-                        <a class="group1" href="images/gallery-3.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-3.jpg">
                             <img src="images/gallery-3.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile">
-                        <a class="group1" href="images/gallery-4.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-4.jpg">
                             <img src="images/gallery-4.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-5.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-5.jpg">
                             <img src="images/gallery-5.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile double block last">
-                        <a class="group1" href="images/gallery-6.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-6.jpg">
                             <img src="images/gallery-6.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile double-vertical">
-                        <a class="group1" href="images/gallery-7.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-7.jpg">
                             <img src="images/gallery-7.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-8.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-8.jpg">
                             <img src="images/gallery-8.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-9.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-9.jpg">
                             <img src="images/gallery-9.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block last">
-                        <a class="group1" href="images/gallery-10.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-10.jpg">
                             <img src="images/gallery-10.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile">
-                        <a class="group1" href="images/gallery-11.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-11.jpg">
                             <img src="images/gallery-11.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-12.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-12.jpg">
                             <img src="images/gallery-12.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block last">
-                        <a class="group1" href="images/gallery-13.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-13.jpg">
                             <img src="images/gallery-13.jpg" alt="">
                         </a>
                     </div>
@@ -112,184 +112,228 @@
                 <div class="tiles">
                     
                     <div class="tile double">
-                        <a class="group1" href="images/gallery-14.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-14.jpg">
                             <img src="images/gallery-14.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-15.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-15.jpg">
                             <img src="images/gallery-15.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile double-vertical last" style="float: right;">
-                        <a class="group1" href="images/gallery-16.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-16.jpg">
                             <img src="images/gallery-16.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile">
-                        <a class="group1" href="images/gallery-17.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-17.jpg">
                             <img src="images/gallery-17.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-18.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-18.jpg">
                             <img src="images/gallery-18.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block">
-                        <a class="group1" href="images/gallery-19.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-19.jpg">
                             <img src="images/gallery-19.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile">
-                        <a class="group1" href="images/gallery-20.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-20.jpg">
                             <img src="images/gallery-20.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-21.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-21.jpg">
                             <img src="images/gallery-21.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-22.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-22.jpg">
                             <img src="images/gallery-22.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block">
-                        <a class="group1" href="images/gallery-23.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-23.jpg">
                             <img src="images/gallery-23.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile">
-                        <a class="group1" href="images/gallery-24.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-24.jpg">
                             <img src="images/gallery-24.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-25.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-25.jpg">
                             <img src="images/gallery-25.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-26.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-26.jpg">
                             <img src="images/gallery-26.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block">
-                        <a class="group1" href="images/gallery-27.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-27.jpg">
                             <img src="images/gallery-27.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile">
-                        <a class="group1" href="images/gallery-28.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-28.jpg">
                             <img src="images/gallery-28.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-29.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-29.jpg">
                             <img src="images/gallery-29.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-30.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-30.jpg">
                             <img src="images/gallery-30.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block">
-                        <a class="group1" href="images/gallery-31.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-31.jpg">
                             <img src="images/gallery-31.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile">
-                        <a class="group1" href="images/gallery-32.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-32.jpg">
                             <img src="images/gallery-32.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-33.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-33.jpg">
                             <img src="images/gallery-33.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-34.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-34.jpg">
                             <img src="images/gallery-34.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block">
-                        <a class="group1" href="images/gallery-35.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-35.jpg">
                             <img src="images/gallery-35.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile">
-                        <a class="group1" href="images/gallery-36.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-36.jpg">
                             <img src="images/gallery-36.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-37.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-37.jpg">
                             <img src="images/gallery-37.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-38.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-38.jpg">
                             <img src="images/gallery-38.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block">
-                        <a class="group1" href="images/gallery-39.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-39.jpg">
                             <img src="images/gallery-39.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
                     <div class="tile">
-                        <a class="group1" href="images/gallery-40.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-40.jpg">
                             <img src="images/gallery-40.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-41.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-41.jpg">
                             <img src="images/gallery-41.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-42.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-42.jpg">
                             <img src="images/gallery-42.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile block">
-                        <a class="group1" href="images/gallery-43.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-43.jpg">
                             <img src="images/gallery-43.jpg" alt="">
                         </a>
                     </div>
                 </div>
                 <div class="tiles">
-                    <div class="tile double">
-                        <a class="group1" href="images/gallery-44.jpg">
+                    <div class="tile">
+                        <a class="group1" href="images/galleryfull/gallery-44.jpg">
                             <img src="images/gallery-44.jpg" alt="">
                         </a>
                     </div>
                     <div class="tile">
-                        <a class="group1" href="images/gallery-45.jpg">
+                        <a class="group1" href="images/galleryfull/gallery-45.jpg">
                             <img src="images/gallery-45.jpg" alt="">
                         </a>
                     </div>
-                    <div class="tile block">
-                        <a class="group1" href="images/gallery-46.jpg">
+                    <div class="tile">
+                        <a class="group1" href="images/galleryfull/gallery-46.jpg">
                             <img src="images/gallery-46.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile block">
+                        <a class="group1" href="images/galleryfull/gallery-47.jpg">
+                            <img src="images/gallery-47.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="tiles">
+                    <div class="tile">
+                        <a class="group1" href="images/galleryfull/gallery-48.jpg">
+                            <img src="images/gallery-48.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/galleryfull/gallery-49.jpg">
+                            <img src="images/gallery-49.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/galleryfull/gallery-50.jpg">
+                            <img src="images/gallery-50.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile block">
+                        <a class="group1" href="images/galleryfull/gallery-51.jpg">
+                            <img src="images/gallery-51.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="tiles">
+                    <div class="tile double">
+                        <a class="group1" href="images/galleryfull/gallery-52.jpg">
+                            <img src="images/gallery-52.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/galleryfull/gallery-53.jpg">
+                            <img src="images/gallery-53.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile block">
+                        <a class="group1" href="images/galleryfull/gallery-54.jpg">
+                            <img src="images/gallery-54.jpg" alt="">
                         </a>
                     </div>
                 </div>
@@ -313,7 +357,10 @@
 	        $(document).ready(function(){
 		        $('#gallerya').addClass('active');
 		        $('.tile>a').colorbox({
-                    rel: "group1"
+                    rel: "group1",
+                    fixed: true,
+                    maxWidth: "100%",
+                    maxHeight: "100%"
                 });
 	        });
         </script>
