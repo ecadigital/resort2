@@ -126,7 +126,7 @@ greenery surrounded.</p>
 	        	
 	        
 		        <div id="area-wrapper" style="margin-top:-30px;">
-			        <img id="pc" src="images/area.jpg">
+			        <img id="pc" src="images/villa-s.jpg">
 			        <img id="mob" src="images/area-mobile.jpg">
 		        </div>
 		        <!--area-wrapper-->
