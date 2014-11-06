@@ -28,7 +28,7 @@
         
         
         <div id="inner-wrapper">
-	        <h1 class="left">Villa & Rates</h1>
+	        <h1 class="left">Deluxe Villa</h1>
 	     </div>
         <!--inner-wrapper-->
         
@@ -126,8 +126,8 @@ greenery surrounded.</p>
 	        	
 	        
 		        <div id="area-wrapper" style="margin-top:-30px;">
-			        <img id="pc" src="images/villa-s.jpg">
-			        <img id="mob" src="images/villa-s.jpg">
+			        <img id="pc" src="images/villa-d.jpg">
+			        <img id="mob" src="images/villa-d.jpg">
 		        </div>
 		        <!--area-wrapper-->
 		        
