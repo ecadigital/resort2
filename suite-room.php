@@ -28,7 +28,7 @@
         
         
         <div id="inner-wrapper">
-	        <h1 class="left">Deluxe Villa</h1>
+	        <h1 class="left">Suite Room</h1>
 	     </div>
         <!--inner-wrapper-->
         
