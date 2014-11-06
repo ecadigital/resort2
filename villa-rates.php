@@ -70,7 +70,7 @@
 			        </div>
 			        <div class="s1">
 				        <h2>Suite Room</h2>
-				        <a href="superior-villa.php">
+				        <a href="suite-room.php">
 					        <img src="images/h3.jpg">
 					        <div class="readmore">
 						        <img src="images/readmore.png">
