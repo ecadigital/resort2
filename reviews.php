@@ -30,10 +30,10 @@
         <div id="inner-wrapper">
 	        <h1 class="left">Reviews</h1>
         <div class="rv-left">
-            <div id="rv-img1" class="rvimg" class="overflow"><a href="#"><img src="img/rv-img1.jpg"></a>
+            <div id="rv-img1" class="rvimg" class="overflow"><a href="reviews-detail.php"><img src="img/rv-img1.jpg"></a>
             </div>
         </div>
-        <div class="rv-right"><a href="#"><span>รายการที่นี้สยาม @La provence สวนผึ้ง</span></a>
+        <div class="rv-right"><a href="reviews-detail.php"><span>รายการที่นี้สยาม @La provence สวนผึ้ง</span></a>
 
         </div>
 
@@ -45,10 +45,10 @@
                 <div class="clearfix"></div>
 
         <div class="rv-left">
-            <div id="rv-img1" class="rvimg" class="overflow"><a href="#"><img src="img/rv-img2.jpg"></a>
+            <div id="rv-img1" class="rvimg" class="overflow"><a href="reviews-detail-2.php"><img src="img/rv-img2.jpg"></a>
             </div>
         </div>
-        <div class="rv-right"><a href="#"><span>คู่เลิฟตะลอนทัวร์ ทัวร์ สวนผึ้ง จ.ราชบุรี <br> 30 มีนาคม 2557 ช่วงนาทีที่ 19.53-24.30</span></a>
+        <div class="rv-right"><a href="reviews-detail-2.php"><span>คู่เลิฟตะลอนทัวร์ ทัวร์ สวนผึ้ง จ.ราชบุรี <br> 30 มีนาคม 2557 ช่วงนาทีที่ 19.53-24.30</span></a>
 
         </div>
 
@@ -60,10 +60,10 @@
                 <div class="clearfix"></div>
 
         <div class="rv-left">
-            <div id="rv-img1" class="rvimg" class="overflow"><a href="#"><img src="img/rv-img3.jpg"></a>
+            <div id="rv-img1" class="rvimg" class="overflow"><a href="reviews-detail-3.php"><img src="img/rv-img3.jpg"></a>
             </div>
         </div>
-        <div class="rv-right"><a href="#"><span>คุณมาเรีย ณ.ไกลบ้าน<br>
+        <div class="rv-right"><a href="reviews-detail-3.php"><span>คุณมาเรีย ณ.ไกลบ้าน<br>
             KTC TBA 2014-2015 : La Provence<br>
             รีสอร์ทสวยบรรยากาศโพรว๊องซ์ ที่สวนผึ้ง<br>
             http:www.bloggang.com/viewdiary.php?<br>
@@ -78,10 +78,10 @@
                 </div>
                 <div class="clearfix"></div>
         <div class="rv-left">
-            <div id="rv-img1" class="rvimg" class="overflow"><a href="#"><img src="img/rv-img4.jpg"></a>
+            <div id="rv-img1" class="rvimg" class="overflow"><a href="reviews-detail-4.php"><img src="img/rv-img4.jpg"></a>
             </div>
         </div>
-        <div class="rv-right"><a href="#"><span>คุณOak_ME<br>
+        <div class="rv-right"><a href="reviews-detail-4.php"><span>คุณOak_ME<br>
             a provence สวนผึ้ง สวยจริง ชิลจริง เพลินจริง<br>
             http://pantip.com/topic/32473324</span></a>
 
@@ -95,10 +95,10 @@
                 <div class="clearfix"></div>
 
         <div class="rv-left">
-            <div id="rv-img1" class="rvimg" class="overflow"><a href="#"><img src="img/rv-img5.jpg"></a>
+            <div id="rv-img1" class="rvimg" class="overflow"><a href="reviews-detail-5.php"><img src="img/rv-img5.jpg"></a>
             </div>
         </div>
-        <div class="rv-right"><a href="#"><span>นายเจอนี่ Nine Journey<br>
+        <div class="rv-right"><a href="reviews-detail-5.php"><span>นายเจอนี่ Nine Journey<br>
             9Journey "La Provence สวนผึ้ง" สวรรค์เล็กที่มีอยู่จริง <br>
             http://pantip.com/topic/32393722</b></span></a>
 

@@ -937,3 +937,14 @@ ul.smallli {
 	float: right;
 }
 
+/* jame custom */
+hgroup h2{
+	font-family: 'db75naraimodernregular','Helvetica';
+}
+hgroup h3{
+	font-size: 1.07em;
+}
+.container img{
+	max-width: 100%;
+}
+/* end jame custom */
