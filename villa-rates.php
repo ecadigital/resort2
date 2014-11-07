@@ -36,8 +36,8 @@
         <div id="large-wrapper">
 	        <div class="warp">
 		        <div id="area-wrapper">
-		        	<div id="n1"><img src="images/n1.png"></div>
-		        	<div id="n2"><img src="images/n2.png"></div>
+		        	<!-- <div id="n1"><img src="images/n1.png"></div>
+		        	<div id="n2"><img src="images/n2.png"></div> -->
 			        <img id="pc" src="images/area.jpg">
 			        <img id="mob" src="images/area-mobile.jpg">
 		        </div>

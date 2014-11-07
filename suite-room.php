@@ -28,12 +28,12 @@
         
         
         <div id="inner-wrapper">
-	        <h1 class="left">Deluxe Villa</h1>
+	        <h1 class="left">Suite Room</h1>
 	     </div>
         <!--inner-wrapper-->
         
         <div id="villa-wrapper">
-		        	<img src="images/home1.jpg">
+		        	<img src="images/home3.jpg">
 		        	
 		        	
 		        	

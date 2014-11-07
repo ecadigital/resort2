@@ -33,7 +33,7 @@
         <!--inner-wrapper-->
         
         <div id="villa-wrapper">
-		        	<img src="images/home1.jpg">
+		        	<img src="images/home2.jpg">
 		        	
 		        	
 		        	
