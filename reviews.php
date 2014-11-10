@@ -60,14 +60,13 @@
                 <div class="clearfix"></div>
 
         <div class="rv-left">
-            <div id="rv-img1" class="rvimg" class="overflow"><a href="reviews-detail-3.php"><img src="img/rv-img3.jpg"></a>
+            <div id="rv-img1" class="rvimg" class="overflow"><a href="reviews-detail-3.php"><img src="img/rv-img3.jpg" width="472px"></a>
             </div>
         </div>
         <div class="rv-right"><a href="reviews-detail-3.php"><span>คุณมาเรีย ณ.ไกลบ้าน<br>
             KTC TBA 2014-2015 : La Provence<br>
             รีสอร์ทสวยบรรยากาศโพรว๊องซ์ ที่สวนผึ้ง<br>
-            http:www.bloggang.com/viewdiary.php?<br>
-            &month-07-2014&date-25&group-54&blog-18</span></a>
+            http://www.bloggang.com/viewdiary.php?id=jbunny&month=07-2014&date=25&group=54&gblog=18</span></a>
 
         </div>
 

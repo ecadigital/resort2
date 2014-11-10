@@ -41,7 +41,7 @@
             
             <div class="container">
                 <div style="text-align: center;">
-                    <img src="img/rv-img2.jpg" alt="" style="width: 100%;">
+                    <<iframe width="640" height="360" src="//www.youtube.com/embed/lXIGn_9Sff8?rel=0" frameborder="0" allowfullscreen></iframe>>
                 </div>
                 <p>คู่เลิฟตะลอนทัวร์ ทัวร์ สวนผึ้ง จ.ราชบุรี <br> 30 มีนาคม 2557 ช่วงนาทีที่ 19.53-24.30</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam eius unde ipsum veniam enim animi ullam blanditiis aspernatur dolor soluta. Aut eligendi, neque repellendus, sit assumenda laboriosam mollitia, maiores dolor sequi quasi asperiores iste? Illum cupiditate ut voluptates vitae quia dicta nobis, nihil, dolores animi, obcaecati, autem voluptas rerum tempore.</p>

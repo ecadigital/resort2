@@ -41,7 +41,7 @@
             
             <div class="container">
                 <div style="text-align: center;">
-                    <img src="img/rv-img4.jpg" alt="" style="width: 100%;">
+                    <img src="img/rv-img4.jpg" alt="">
                 </div>
                 <p>คุณOak_ME<br> a provence สวนผึ้ง สวยจริง ชิลจริง เพลินจริง<br> <a href="http://pantip.com/topic/32473324">http://pantip.com/topic/32473324</a></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam eius unde ipsum veniam enim animi ullam blanditiis aspernatur dolor soluta. Aut eligendi, neque repellendus, sit assumenda laboriosam mollitia, maiores dolor sequi quasi asperiores iste? Illum cupiditate ut voluptates vitae quia dicta nobis, nihil, dolores animi, obcaecati, autem voluptas rerum tempore.</p>

@@ -41,7 +41,7 @@
             
             <div class="container">
                 <div style="text-align: center;">
-                    <img src="img/rv-img4.jpg" alt="" style="width: 100%;">
+                    <img src="img/rv-img4.jpg" alt="">
                 </div>
                 <p>
                     นายเจอนี่ Nine Journey<br>
