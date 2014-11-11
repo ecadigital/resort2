@@ -177,7 +177,7 @@ h1.left{
 	max-width: 1400px;
 	height: auto;
 	background: url(../images/villabg.jpg) no-repeat;
-	background-position: center top;
+	background-position: center bottom;
 	margin: 0 auto;
 }
 #villa-wrapper{
@@ -200,7 +200,7 @@ h1.left{
 }
 #area-wrapper{
 	position: relative;
-	margin-top: -60px;
+	/*margin-top: -60px;*/
 	z-index: 9;
 	zoom: 1;
 	filter: alpha(opacity=0);
@@ -852,12 +852,12 @@ form input[type="text"]{
 
 #blog-in3 span{
 	color: #fff!important;
-	font-size: 12px;
+	font-size: 13px;
 	line-height: 19px;
 }
 
 #blog-in3 {
-	padding: 20px 30px 20px 20px;
+	padding: 40px 20px 30px 20px;
 }
 
 #as-left {
@@ -915,7 +915,7 @@ form input[type="text"]{
 #inner-wrapper ul li{ text-indent:-10px; }
 
 .smallli li{
- font-size: 11px;
+ font-size: 12px;
  padding: 0px;
  margin: 0px;
 }

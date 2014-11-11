@@ -35,21 +35,8 @@
         
         <div id="large-wrapper">
 	        <div class="warp">
-		        <div id="area-wrapper">
-		        	<!-- <div id="n1"><img src="images/n1.png"></div>
-		        	<div id="n2"><img src="images/n2.png"></div> -->
-			        <img id="pc" src="images/area.jpg">
-			        <img id="mob" src="images/area-mobile.jpg">
-		        </div>
-		        <!--area-wrapper-->
-		        
-		        <div class="linelarge">
-			        <img src="images/line-large.jpg">
-		        </div>
-		        
-		        
-		        
-		        <div class="rate-group-wrapper">
+
+	        	<div class="rate-group-wrapper">
 			        <div class="s1">
 				        <h2>Superior Villa</h2>
 				        <a href="superior-villa.php">
@@ -83,9 +70,29 @@
 		        </div>
 		        <!--rate-group-wrapper-->
 		        
+		       
+		        
+		        <div class="linelarge"><br>
+			        <img src="images/line-large.jpg">
+		        </div>
+		        
+		        
+		         <div id="area-wrapper">
+		        	<!-- <div id="n1"><img src="images/n1.png"></div>
+		        	<div id="n2"><img src="images/n2.png"></div> -->
+			        <img id="pc" src="images/area.jpg">
+			        <img id="mob" src="images/area-mobile.jpg">
+		        </div>
+		        <!--area-wrapper-->
+		        
+		        
 		        
 	        </div>
 	        <!--warp-->
+
+	         <div class="gotop">
+	        <img src="images/gotop.png">
+        </div>
         </div>
         <!--large-wrapper-->
         

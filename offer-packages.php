@@ -78,19 +78,19 @@
                              <div class="white-line"></div>
                             Inclusive of ;<br>
                             <ul>
-                            <li>Superior and Deluxe Villas <br>
+                            <li>Superior and Deluxe Villas
                                 with 3 persons sharing per room</li>
-                            <li>One Two-bedroom Villa <br>
+                            <li>One Two-bedroom Villa
                                 for 5 persons sharing in room</li>
-                            <li>Breakfast for all guests in-house <br>
+                            <li>Breakfast for all guests in-house
                                 on the following day <br>
                                 (counting at 50 persons)</li>
-                            <li>A buffet for 80 to 100 guests <br>
-                                inside dining hall   <br>   
+                            <li>A buffet for 80 to 100 guests
+                                inside dining hall  
                                 with soft drinks for 3 hours.</li>
-                            <li>A flower decoration as per La Provence <br>
+                            <li>A flower decoration as per La Provence
                                 (to be discussed with guests directly)</li>
-                            <li>A complimentary stay for Bride & Groom <br>
+                            <li>A complimentary stay for Bride & Groom
                                 one night prior to the event </li>
                             </ul>    
                                  <div class="white-line"></div>
@@ -111,33 +111,33 @@
                 <div id="blog3">
                     <div id="blog-in3">
                         <span>PACKAGE I  at 4,000 Baht <br>
-                        A special price when guest buy one<br>
-                        night accommodation through hotel<br>
-                        at normal rate.  Please call hotel <br>
+                        A special price when guest buy one
+                        night accommodation through hotel
+                        at normal rate.  Please call hotel
                         directly to request.<br><br>
                         PACKAGE II  at 7,000 Baht<br>
-                        One day package<br> 
+                        One day package
                         with no accommodation<br>
                          <div class="white-line"></div>
                         Inclusive of;
                         <ul class="smallli">
-                        <li>Photo shooting time starting <br>
-                            from 9 am to 7 pm<br> 
+                        <li>Photo shooting time starting
+                            from 9 am to 7 pm 
                             (outdoor area only)</li>
-                        <li>Photo shooting at The Pool is<br>           
+                        <li>Photo shooting at The Pool is         
                         allow till 4 pm. Only.</li>
-                        <li>Indoor photo shooting at Bride<br> 
+                        <li>Indoor photo shooting at Bride
                              & Groom’s room.</li>
                              </ul>
                         Remark;
                     
                         <ul class="smallli">
                         <li>Pets are not allow in the property.</li>
-                        <li>No outside food allow in hotel<br> 
+                        <li>No outside food allow in hotel
                             and restaurant area.</li>
-                        <li>Props, chairs and hotel belongings<br>      in rooms, restaurant and all  <br>           outdoor area can not be move from     <br>   original place.</li>  
-                        <li>A cash deposit of BHT 2,000 is to <br>      be place upon check-in to <br> 
-                            guaranteed for any damage in hotel<br>      property. Hotel will return if no <br>       damage occur upon check-out.</li>
+                        <li>Props, chairs and hotel belongings in rooms, restaurant and all  outdoor area can not be move from original place.</li>  
+                        <li>A cash deposit of BHT 2,000 is to be place upon check-in to <br> 
+                            guaranteed for any damage in hotel property. Hotel will return if no damage occur upon check-out.</li>
                             </ul>
                             </span>
                     </div>
