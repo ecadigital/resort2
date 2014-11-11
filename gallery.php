@@ -344,7 +344,9 @@
                 <div class="clearfix"></div>
             </div>
             <!--contentsam-->
-
+             <div class="gotop">
+            <img src="images/gotop.png">
+        </div>
         </div>
        <!--wrap-inner-->
         
