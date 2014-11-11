@@ -34,7 +34,7 @@
         
         	<div id="imagedisplay">
 			    <div id="s1" class="slider_item active" style="height:800px;">
-				    <h1 style="position:relative; top:150px;">Dreaming &nbsp;&nbsp;of&nbsp;&nbsp; Provence</h1>
+				    <h1 style="position:relative; top:290px;">Dreaming &nbsp;&nbsp;of&nbsp;&nbsp; Provence</h1>
 			    </div>
 			    
 			    <div id="s2" class="slider_item">
