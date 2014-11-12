@@ -63,7 +63,7 @@ local Thai food and International favorite dishes.  </p>
 	       <div class="clearfix"></div>
 	       
 	       		 <div class="linelarge">
-			        <img src="images/flowerline.jpg">
+			        <img src="images/flower-line6.jpg">
 		        </div>
 		        <div class="clearfix"></div>
 		        
@@ -78,7 +78,7 @@ local Thai food and International favorite dishes.  </p>
 		        
 		        
 		        <div class="linelarge">
-			        <img src="images/flower-line2.jpg">
+			        <img src="images/flower-line7.jpg">
 		        </div>
 		        <div class="clearfix"></div>
 		        
@@ -90,7 +90,7 @@ local Thai food and International favorite dishes.  </p>
 		        
 		        
 		        <div class="linelarge">
-			        <img src="images/flower-line3.jpg">
+			        <img src="images/flower-line8.jpg">
 		        </div>
 		        <div class="clearfix"></div>
 		        

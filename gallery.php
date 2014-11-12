@@ -339,7 +339,7 @@
                 </div>
 
                 <div class="linelarge">
-                    <img src="images/flower-line3.jpg" alt="">
+                    <img src="images/flower-line6.jpg" alt="">
                 </div>
                 <div class="clearfix"></div>
             </div>

@@ -53,7 +53,7 @@
                  <div class="clearfix"></div>
            
                  <div class="linelarge">
-                    <img src="images/flowerline.jpg">
+                    <img src="images/flower-line6">
                 </div>
                 <div class="clearfix"></div>
 
@@ -103,7 +103,7 @@
             </div>
                 <div class="clearfix"></div>
                  <div class="linelarge">
-                    <img src="images/flowerline.jpg">
+                    <img src="images/flower-line7.jpg">
                 </div>
                 <div class="clearfix"></div>
              <h1 class="left fleft">Pre-wedding photo shooting package</h1><h2 class="h2small h2right">*Monday to Friday only*</h2>
@@ -157,7 +157,7 @@
 
              <div class="clearfix"></div>
                  <div class="linelarge">
-                    <img src="images/flowerline.jpg">
+                    <img src="images/flower-line8.jpg">
                 </div>
                  <div class="clearfix"></div>
             <div id="as-left">
@@ -176,7 +176,7 @@
 
                 <div class="clearfix"></div>
                  <div class="linelarge">
-                    <img src="images/flower-line3.jpg">
+                    <img src="images/flower-line6.jpg">
                 </div>
 
 
