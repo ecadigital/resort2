@@ -53,7 +53,7 @@
                  <div class="clearfix"></div>
            
                  <div class="linelarge">
-                    <img src="images/flower-line6">
+                    <img src="images/flower-line6.jpg">
                 </div>
                 <div class="clearfix"></div>
 
