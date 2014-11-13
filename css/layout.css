@@ -1,23 +1,23 @@
 @font-face {
     font-family: 'vientoregular';
-    src: url('font/sudtipos_-_viento-webfont.eot');
-    src: url('font/sudtipos_-_viento-webfont.eot?#iefix') format('embedded-opentype'),
-         url('font/sudtipos_-_viento-webfont.woff2') format('woff2'),
-         url('font/sudtipos_-_viento-webfont.woff') format('woff'),
-         url('font/sudtipos_-_viento-webfont.ttf') format('truetype'),
-         url('font/sudtipos_-_viento-webfont.svg#vientoregular') format('svg');
+    src: url('fonts/sudtipos_-_viento-webfont.eot');
+    src: url('fonts/sudtipos_-_viento-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sudtipos_-_viento-webfont.woff2') format('woff2'),
+         url('fonts/sudtipos_-_viento-webfont.woff') format('woff'),
+         url('fonts/sudtipos_-_viento-webfont.ttf') format('truetype'),
+         url('fonts/sudtipos_-_viento-webfont.svg#vientoregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'db75naraimodernregular';
-    src: url('font/db75naraimodern-webfont.eot');
-    src: url('font/db75naraimodern-webfont.eot?#iefix') format('embedded-opentype'),
-         url('font/db75naraimodern-webfont.woff2') format('woff2'),
-         url('font/db75naraimodern-webfont.woff') format('woff'),
-         url('font/db75naraimodern-webfont.ttf') format('truetype'),
-         url('font/db75naraimodern-webfont.svg#db75naraimodernregular') format('svg');
+    src: url('fonts/db75naraimodern-webfont.eot');
+    src: url('fonts/db75naraimodern-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/db75naraimodern-webfont.woff2') format('woff2'),
+         url('fonts/db75naraimodern-webfont.woff') format('woff'),
+         url('fonts/db75naraimodern-webfont.ttf') format('truetype'),
+         url('fonts/db75naraimodern-webfont.svg#db75naraimodernregular') format('svg');
     font-weight: normal;
     font-style: normal;
 

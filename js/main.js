@@ -2,10 +2,10 @@ $(document).ready(function(){
 	
 	//lightbox
 				//Examples of how to assign the Colorbox event to elements
-				$(".group1").colorbox({rel:'group1',fixed: true,maxWidth: "100%",maxHeight: "100%"});
-				$(".group2").colorbox({rel:'group2'});
-				$(".group3").colorbox({rel:'group3', transition:"none", width:"75%", height:"75%"});
-				$(".group4").colorbox({rel:'group4', slideshow:true});
+				$(".group1").colorbox({rel:'group1',fixed: true,maxWidth: "100%",maxHeight: "100%",previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"});
+				$(".group2").colorbox({rel:'group2',fixed: true,maxWidth: "100%",maxHeight: "100%",previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"});
+				$(".group3").colorbox({rel:'group3', transition:"none",fixed: true,maxWidth: "100%",maxHeight: "100%",previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"});
+				$(".group4").colorbox({rel:'group4', slideshow:true,previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"});
 				$(".ajax").colorbox();
 				$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
 				$(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
