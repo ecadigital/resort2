@@ -362,7 +362,9 @@
                     rel: "group1",
                     fixed: true,
                     maxWidth: "100%",
-                    maxHeight: "100%"
+                    maxHeight: "100%",
+                    previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",
+                    next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"
                 });
 	        });
         </script>
