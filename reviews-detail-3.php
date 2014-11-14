@@ -50,9 +50,9 @@
                     <img src="images/share.png" alt="">
                 </div>
             </div>
-            <div class="gotop">
-    	        <img src="images/gotop.png">
-            </div>
+            <div class="backto">
+           <a href="reviews.php"><img src="images/backto.png"></a> 
+        </div>
         
         </div><!--inner-wrapper-->
        

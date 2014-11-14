@@ -336,7 +336,7 @@ greenery surrounded.</p>
         
         
         <div class="backto">
-	       <a href="villa-rates.php"><img src="images/gotop.png"></a> 
+	       <a href="villa-rates.php"><img src="images/backto.png"></a> 
         </div>
         
         
