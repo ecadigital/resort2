@@ -335,8 +335,8 @@ greenery surrounded.</p>
         <!--large-wrapper-->
         
         
-        <div class="gotop">
-	        <img src="images/gotop.png">
+        <div class="backto">
+	       <a href="villa-rates.php"><img src="images/gotop.png"></a> 
         </div>
         
         

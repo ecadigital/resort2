@@ -401,6 +401,26 @@ p{
 	-o-transform: scale(0.9) translateZ(0);
 	transform: scale(0.9) translateZ(0);
 }
+
+.backto{
+	width: 75px;
+	height: 74px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	cursor: pointer;
+			-webkit-transition: all 356ms ease-out;
+	-moz-transition: all 356ms ease-out;
+	-o-transition: all 356ms ease-out;
+	transition: all 356ms ease-out;
+}
+.backto:hover{
+	-webkit-transform: scale(0.9) translateZ(0);
+	-moz-transform: scale(0.9) translateZ(0);
+	-o-transform: scale(0.9) translateZ(0);
+	transform: scale(0.9) translateZ(0);
+}
+
 #wrap-inner{
 	width: 100%;
 	max-width: 960px;
@@ -536,7 +556,7 @@ form input[type="text"]{
 	padding-top: 20px;
 }
 .imgsam{
-	margin: 0 auto;
+	/*margin: 0 auto;*/
 	width: 100%;
 	max-width: 898px;
 }
