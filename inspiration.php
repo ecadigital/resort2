@@ -37,13 +37,13 @@
 	<br>with mountains bordering Thailand and Myanmar. 
 	<br>Therefore, the climate is quite similar to the Northern part of Thailand. 
 	<br>The breathtaking beauty of unspoiled nature combining with a unique design 
-	<br>of French Provence village is a perfect introduction to a dream vacation.</p>
+	<br>inspired from “Provence”, is a perfect introduction to a dream vacation.</p>
 	        </div>
 	        <div class="clearfix"></div>
 	        
 	        <div class="leftside" style="width:460px; text-align:center; margin-top:10px;">
-		        <p>The remarkable variety of Provence is reflected in small villages, 
-<br>which differ in their character and architecture.  
+		        <p>The remarkable variety of Provence is differs markedly in the
+<br> character and architecture of each area.  
 <br>La Provence Suan Phung, designed to reflected the area 
 <br>of Alpes-Maritimes from a colorful 
 <br>and dramatic Italianate look with cheerful churches 

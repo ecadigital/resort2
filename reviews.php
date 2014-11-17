@@ -39,9 +39,7 @@
 
          <div class="clearfix"></div>
            
-                 <div class="linelarge">
-                    <img src="images/flower-line5.jpg">
-                </div>
+               <div class="line"><img src="images/line1.gif"></div>
                 <div class="clearfix"></div>
 
         <div class="rv-left">
@@ -54,9 +52,7 @@
 
          <div class="clearfix"></div>
            
-                 <div class="linelarge">
-                   <img src="images/flower-line6.jpg">
-                </div>
+                 <div class="line"><img src="images/line2.gif"></div>
                 <div class="clearfix"></div>
 
         <div class="rv-left">
@@ -72,9 +68,7 @@
 
          <div class="clearfix"></div>
            
-                 <div class="linelarge">
-                    <img src="images/flower-line7.jpg">
-                </div>
+                 <div class="line"><img src="images/line3.gif"></div>
                 <div class="clearfix"></div>
         <div class="rv-left">
             <div id="rv-img1" class="rvimg" class="overflow"><a href="reviews-detail-4.php"><img src="img/rv-img4.jpg"></a>
@@ -87,10 +81,7 @@
         </div>
 
          <div class="clearfix"></div>
-           
-                 <div class="linelarge">
-                    <img src="images/flower-line8.jpg">
-                </div>
+           <div class="line"><img src="images/line1.gif"></div>
                 <div class="clearfix"></div>
 
         <div class="rv-left">
@@ -105,9 +96,7 @@
 
          <div class="clearfix"></div>
            
-                 <div class="linelarge">
-                    <img src="images/flower-line9.jpg">
-                </div>
+                 <div class="line"><img src="images/line2.gif"></div>
                 <div class="clearfix"></div>
      
 	 

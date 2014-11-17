@@ -34,9 +34,7 @@
                <h3>30 March, 2014</h3>
             </hgroup>
 
-            <div class="linelarge">
-                <img src="images/flower-line7.jpg">
-            </div>
+           <div class="line"><img src="images/line1.gif"></div>
             <div class="clearfix"></div>
             
             <div class="container">

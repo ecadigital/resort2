@@ -339,9 +339,7 @@
                     </div>
                 </div>
 
-                <div class="linelarge">
-                    <img src="images/flower-line6.jpg" alt="">
-                </div>
+                <div class="line"><img src="images/line1.gif"></div>
                 <div class="clearfix"></div>
             </div>
             <!--contentsam-->

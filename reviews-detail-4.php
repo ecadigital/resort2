@@ -34,9 +34,7 @@
                <h3>19 August, 2014</h3>
             </hgroup>
 
-            <div class="linelarge">
-                <img src="images/flower-line8.jpg">
-            </div>
+            <div class="line"><img src="images/line1.gif"></div>
             <div class="clearfix"></div>
             
             <div class="container">

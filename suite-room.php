@@ -101,9 +101,7 @@ greenery surrounded.</p>
 				        <div class="clearfix"></div>
 		        	</div><!--desc--> 	
 		        	
-		        	<div class="linelarge">
-			        <img src="images/line3.jpg">
-		        </div>
+		        	<div class="line"><img src="images/line1.gif"></div>
 		        	
 	        	</div>
 	        	<!--villa-wrapper-->
@@ -131,9 +129,7 @@ greenery surrounded.</p>
 		        </div>
 		        <!--area-wrapper-->
 		        
-		        <div class="linelarge">
-			        <img src="images/line3.jpg">
-		        </div>
+		        <div class="line"><img src="images/line2.gif"></div>
 		        
 		        
 		        
@@ -153,9 +149,7 @@ greenery surrounded.</p>
 		        <!--block-list-wrapper-->
 		        
 		        
-		        <div class="linelarge">
-			        <img src="images/line3.jpg">
-			    </div><!--line-->
+		        <div class="line"><img src="images/line3.gif"></div>
 			    
 			    
 			    

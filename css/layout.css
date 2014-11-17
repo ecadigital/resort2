@@ -171,6 +171,7 @@ h1.left{
 .line{
 	margin-top: 50px;
 	margin-bottom: 40px;
+	text-align: center;
 }
 #large-wrapper{
 	width: 100%;

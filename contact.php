@@ -39,9 +39,8 @@
 		       <img src="images/map.jpg" alt="">
 	       </div>
 	       <div class="contentsam">
-		       <div class="linelarge">
-		       		<img src="images/flower-line7.jpg" alt="flower border 7">
-		       </div>
+	       	 <div class="line"><img src="images/line1.gif" alt="flower border 7"></div>
+		       
 	       		<form action="#" method="POST" class="p50" style="padding-right: 44px;">
 		       		<h1 style="margin-top: -34px;">Contact us</h1>
 		       		<p>Send an email, All fields with an * are required.</p>
@@ -62,9 +61,7 @@
 		       </div>
 		       <div class="clearfix"></div>
 	       
-				<div class="linelarge">
-			        <img src="images/flower-line8.jpg" alt="flower border 8">
-		        </div>
+				 <div class="line"><img src="images/line2.gif" alt="flower border 8"></div>
 		        <div class="clearfix"></div>
 	       </div>
 	       <!--contentsam-->

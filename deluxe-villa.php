@@ -102,10 +102,7 @@ greenery surrounded.</p>
 				        <div class="clearfix"></div>
 		        	</div><!--desc--> 	
 		        	
-		        	<div class="linelarge">
-			        <img src="images/line3.jpg">
-		        </div>
-		        	
+		        	<div class="line"><img src="images/line1.gif"></div>		        	
 	        	</div>
 	        	<!--villa-wrapper-->
         
@@ -132,21 +129,19 @@ greenery surrounded.</p>
 		        </div>
 		        <!--area-wrapper-->
 		        
-		        <div class="linelarge">
-			        <img src="images/line3.jpg">
-		        </div>
+		       <div class="line"><img src="images/line2.gif"></div>
 		        
 		        
 		        
 		        
 		        <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Sunflower  field</h2>
+				        <h2>Wing</h2>
 				        <ul>
-					        <li><a class="group1" href="pic-room/3_house.jpg"><img src="pic-room/3_house1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/3_front.jpg"><img src="pic-room/3_front1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/3_bed.jpg"><img src="pic-room/3_bed1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/3_restroom.jpg"><img src="pic-room/3_restroom1.jpg"></a></li>
+					        <li><a class="group1" href="pic-room/1_house.jpg"><img src="pic-room/1_house1.jpg"></a></li>
+					        <li><a class="group1"  href="pic-room/1_front.jpg"><img src="pic-room/1_front1.jpg"></a></li>
+					        <li><a class="group1"  href="pic-room/1_bed.jpg"><img src="pic-room/1_bed1.jpg"></a></li>
+					        <li><a class="group1"  href="pic-room/1_restroom.jpg"><img src="pic-room/1_restroom1.jpg"></a></li>
 				        </ul>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
@@ -154,9 +149,7 @@ greenery surrounded.</p>
 		        <!--block-list-wrapper-->
 		        
 		        
-		        <div class="linelarge">
-			        <img src="images/line3.jpg">
-			    </div><!--line-->
+		       <div class="line"><img src="images/line3.gif"></div>
 			    
 			    
 			    
@@ -166,12 +159,12 @@ greenery surrounded.</p>
 			    
 			    <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Lavender</h2>
+				        <h2>Les Fleurs</h2>
 				        <ul>
-					        <li><a class="group2" href="pic-room/4_house.jpg"><img src="pic-room/4_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/4_front.jpg"><img src="pic-room/4_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/4_bed.jpg"><img src="pic-room/4_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/4_restroom.jpg"><img src="pic-room/4_restroom1.jpg"></a></li>
+					        <li><a class="group2" href="pic-room/2_house.jpg"><img src="pic-room/2_house1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/2_front.jpg"><img src="pic-room/2_front1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/2_bed.jpg"><img src="pic-room/2_bed1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/2_restroom.jpg"><img src="pic-room/2_restroom1.jpg"></a></li>
 				        </ul>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
@@ -179,80 +172,17 @@ greenery surrounded.</p>
 		        <!--block-list-wrapper-->
 		        
 		        
-		        <div class="linelarge">
-			        <img src="images/line4.jpg">
-			    </div><!--line-->
+		        <div class="line"><img src="images/line1.gif"></div>
 			    
 			    
 			    
 			    
 			    <div class="block-list-wrapper">
-			        <div class="block">
-				        <h2>La Mer</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/5_house.jpg"><img src="pic-room/5_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/5_bed.jpg"><img src="pic-room/5_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/5_wall.jpg"><img src="pic-room/5_wall1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/5_restroom.jpg"><img src="pic-room/5_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
-			        </div><!--block-->
-			        <div class="clearfix"></div>
-		        </div>
-		        <!--block-list-wrapper-->
-		        
-		        
-		        <div class="linelarge">
-			        <img src="images/line4.jpg">
-			    </div><!--line-->
-
-			     <div class="block-list-wrapper">
-			        <div class="block">
-				        <h2>Lamon</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/6_house.jpg"><img src="pic-room/6_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/6_frontjpg"><img src="pic-room/6_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/6_bed.jpg"><img src="pic-room/6_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/6_restroom.jpg"><img src="pic-room/6_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
-			        </div><!--block-->
-			        <div class="clearfix"></div>
-		        </div>
-		        <!--block-list-wrapper-->
-		        
-		        
-		        <div class="linelarge">
-			        <img src="images/line4.jpg">
-			    </div><!--line-->
-
-			     <div class="block-list-wrapper">
-			        <div class="block">
-				        <h2>Voyage</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/7_house.jpg"><img src="pic-room/7_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/7_frontjpg"><img src="pic-room/7_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/7_bed.jpg"><img src="pic-room/7_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/7_restroom.jpg"><img src="pic-room/7_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
-				        </ul>
-			        </div><!--block-->
-			        <div class="clearfix"></div>
-		        </div>
-		        <!--block-list-wrapper-->
-		        
-		        
-		        <div class="linelarge">
-			        <img src="images/line4.jpg">
-			    </div><!--line-->
-
-			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Princess</h2>
 				        <ul>
 					        <li><a class="group2" href="pic-room/8_house.jpg"><img src="pic-room/8_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/8_frontjpg"><img src="pic-room/8_front1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/8_front.jpg"><img src="pic-room/8_front1.jpg"></a></li>
 					        <li><a class="group2"  href="pic-room/8_bed.jpg"><img src="pic-room/8_bed1.jpg"></a></li>
 					        <li><a class="group2"  href="pic-room/8_restroom.jpg"><img src="pic-room/8_restroom1.jpg"></a></li>
 				        </ul>
@@ -263,18 +193,16 @@ greenery surrounded.</p>
 		        <!--block-list-wrapper-->
 		        
 		        
-		        <div class="linelarge">
-			        <img src="images/line4.jpg">
-			    </div><!--line-->
+		        <div class="line"><img src="images/line2.gif"></div>
 
 			     <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Artists</h2>
+				        <h2>Rose</h2>
 				        <ul>
-					        <li><a class="group2" href="pic-room/9_house.jpg"><img src="pic-room/9_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/9_frontjpg"><img src="pic-room/9_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/9_bed.jpg"><img src="pic-room/9_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/9_restroom.jpg"><img src="pic-room/9_restroom1.jpg"></a></li>
+					        <li><a class="group2" href="pic-room/11_house.jpg"><img src="pic-room/11_house1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/11_front.jpg"><img src="pic-room/11_front1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/11_bed.jpg"><img src="pic-room/11_bed1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/11_restroom.jpg"><img src="pic-room/11_restroom1.jpg"></a></li>
 				        </ul>
 				        </ul>
 			        </div><!--block-->
@@ -283,18 +211,17 @@ greenery surrounded.</p>
 		        <!--block-list-wrapper-->
 		        
 		        
-		        <div class="linelarge">
-			        <img src="images/line4.jpg">
-			    </div><!--line-->
+		       <div class="line"><img src="images/line3.gif"></div>
 
 			     <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Butterfly</h2>
-				        <ul>
-					         <li><a class="group2" href="pic-room/10_house.jpg"><img src="pic-room/10_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/10_bedjpg"><img src="pic-room/10_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/10_door.jpg"><img src="pic-room/10_door1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/10_restroom.jpg"><img src="pic-room/10_restroom1.jpg"></a></li>
+				        <h2>In Love</h2>
+				        <ul> 
+					        <li><a class="group2" href="pic-room/12_house.jpg"><img src="pic-room/12_house1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/12_front.jpg"><img src="pic-room/12_front1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/12_bed.jpg"><img src="pic-room/12_bed1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/12_restroom.jpg"><img src="pic-room/12_restroom1.jpg"></a></li>
+				        </ul>
 				        </ul>
 				        </ul>
 			        </div><!--block-->
@@ -303,18 +230,16 @@ greenery surrounded.</p>
 		        <!--block-list-wrapper-->
 		        
 		        
-		        <div class="linelarge">
-			        <img src="images/line4.jpg">
-			    </div><!--line-->
+		        <div class="line"><img src="images/line1.gif"></div>
 
 			     <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Bonjour</h2>
+				        <h2>Olive</h2>
 				        <ul>
-					        <li><a class="group2" href="pic-room/14_house.jpg"><img src="pic-room/14_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/14_bed.jpg"><img src="pic-room/14_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/14_wall.jpg"><img src="pic-room/14_wall1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/14_restroom.jpg"><img src="pic-room/14_restroom1.jpg"></a></li>
+					        <li><a class="group2" href="pic-room/15_house.jpg"><img src="pic-room/15_house1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/15_front.jpg"><img src="pic-room/15_front1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/15_bed.jpg"><img src="pic-room/15_bed1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/15_restroom.jpg"><img src="pic-room/15_restroom1.jpg"></a></li>
 				        </ul>
 				        </ul>
 			        </div><!--block-->
@@ -323,9 +248,32 @@ greenery surrounded.</p>
 		        <!--block-list-wrapper-->
 		        
 		        
-		        <div class="linelarge">
-			        <img src="images/line4.jpg">
-			    </div><!--line-->
+		        <div class="line"><img src="images/line2.gif"></div>
+
+			     <div class="block-list-wrapper">
+			        <div class="block">
+				        <h2>Angle</h2>
+				        <ul>
+					        <li><a class="group2" href="pic-room/16_house.jpg"><img src="pic-room/16_house1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/16_front.jpg"><img src="pic-room/16_front1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/16_bed.jpg"><img src="pic-room/16_bed1.jpg"></a></li>
+					        <li><a class="group2"  href="pic-room/16_restroom.jpg"><img src="pic-room/16_restroom1.jpg"></a></li>
+				        </ul>
+				        </ul>
+			        </div><!--block-->
+			        <div class="clearfix"></div>
+		        </div>
+		        <!--block-list-wrapper-->
+		        
+		        
+		        <div class="line"><img src="images/line3.gif"></div>
+
+			     
+			        <div class="clearfix"></div>
+		        </div>
+		        <!--block-list-wrapper-->
+		        
+		
 			    
 			    
 		        		        
