@@ -59,10 +59,7 @@
             <div id="sp-img3" class="overflow"><img src="img/sp-img3.jpg">
             </div>
             <div id="sp2-left">
-                <div id="sp-img4" class="overflow"><img src="img/sp-img4.jpg">
-                </div>
-                <div id="sp-img5" class="overflow"><img src="img/sp-img5.jpg">
-                </div>
+                
                 <div id="sp-img6" class="overflow"><img src="img/sp-img6.jpg">
                 </div>
             </div>
@@ -99,6 +96,15 @@
                     </div>
                 </div>
             </div>
+             <div class="clearfix"></div>
+            <div id="bot-sp">
+ <div id="sp-img4" class="overflow"><img src="img/sp-img4.jpg">
+                </div>
+                <div id="sp-img5" class="overflow"><img src="img/sp-img5.jpg">
+                </div>
+            </div>
+
+               
                 <div class="clearfix"></div>
                  <div class="line"><img src="images/line2.gif"></div>
                 <div class="clearfix"></div>
