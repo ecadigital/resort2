@@ -49,16 +49,10 @@
 	       
 			        <p>
 				        
-	A 50 sqm. studio villa with living 
-room and bedroom separated to 
-upper and lower area by 2 footsteps.  </p>
-	<p>A bathroom of 6 sqm designed with perfect area fitted with washbasin, 
-shower and toilet. </p>
-	<p>A south-facing terrace of 9 sqm. 
-with iron chairs and table plus a spiral staircase lead to upper-deck with 3 meters-length wooden couch 
-are well designed for guests to look 
-out over a vast field of flowers and 
-greenery surrounded.</p>
+	Located next to flower field,all Deluxe Villars of50 sqm
+	are built with upper-deck,front
+balconyand French window opens to living area. Each villa decorated in vintage style. </p>
+	
 
 
 			        
@@ -67,32 +61,24 @@ greenery surrounded.</p>
 	       	        </div>
 	        
 	        <div class="leftside" style="width:33%; text-align:center; margin-top:0px;">
-		        <img src="images/pu-rate.jpg">
+		        <img src="images/du-rate.jpg">
 	        </div>
 	        	        <div class="leftside" style="width:33%; text-align:center; margin-top:0px; text-align:left; margin-left:10px;">
 	        	
 	        	
 	        	
 	        	
-	        	<h5>A Superior Villa consists of ;</h5>
+	        	<h5>A Delux Villa consists of ;</h5>
 	        	
 <br>-	A queen-sized bed
-<br>-	Bedside tables with lamps
-<br>-	Bathroom with head shower 
-	<br>&nbsp;&nbsp;and hot water (in shower area only) 
-<br>-	Washbasin and toilet
-<br>-	Wardrope with bathrobes, slippers, 
-	<br>&nbsp;&nbsp;hangers and two umbrellas
-<br>-	Torch light
-<br>-	Safety box
+<br>-	Bathroom with bathtub
+<br>-	Safety deposit box with torch light
 <br>-	Sofa bed size 80 x 180 cm 
-<br>-	One coffee table
 <br>-	A terrace with sitting area
 <br>-	An upper-deck
 <br>-	Coffee and tea making facilities
 <br>-	LED 32” TV 
-<br>-	A refrigerator with complimentary 
-	<br>&nbsp;&nbsp;drinking water
+<br>-	A refrigerator 
 <br>-	Air-condition
 <br>-	Free wifi
 	        	

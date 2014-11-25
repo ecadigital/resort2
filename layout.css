@@ -157,7 +157,7 @@ h1.left{
 }
 
 h1.margin {
-	margin-left: -30px;
+	margin-left: -5px;
 }
 #inner-wrapper p{
 	font-family: 'db75naraimodernregular';
@@ -739,7 +739,7 @@ form input[type="text"]{
 
 #sp-img3{
 	width: 960px;
-	height: auto;
+	height: 338px;
 	
 }
 

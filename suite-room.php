@@ -28,7 +28,7 @@
         
         
         <div id="inner-wrapper">
-	        <h1 class="left">Suite Room</h1>
+	        <h1 class="left">Two-Bedroom Villa</h1>
 	     </div>
         <!--inner-wrapper-->
         
@@ -66,34 +66,27 @@ greenery surrounded.</p>
 	       	        </div>
 	        
 	        <div class="leftside" style="width:33%; text-align:center; margin-top:0px;">
-		        <img src="images/pu-rate.jpg">
+		        <img src="images/vip-rate.jpg">
 	        </div>
 	        	        <div class="leftside" style="width:33%; text-align:center; margin-top:0px; text-align:left; margin-left:10px;">
 	        	
 	        	
 	        	
 	        	
-	        	<h5>A Superior Villa consists of ;</h5>
+	        	<h5>A Two-bedroom Villa consists of ;</h5>
 	        	
-<br>-	A queen-sized bed
-<br>-	Bedside tables with lamps
-<br>-	Bathroom with head shower 
-	<br>&nbsp;&nbsp;and hot water (in shower area only) 
-<br>-	Washbasin and toilet
-<br>-	Wardrope with bathrobes, slippers, 
-	<br>&nbsp;&nbsp;hangers and two umbrellas
-<br>-	Torch light
-<br>-	Safety box
-<br>-	Sofa bed size 80 x 180 cm 
-<br>-	One coffee table
-<br>-	A terrace with sitting area
-<br>-	An upper-deck
-<br>-	Coffee and tea making facilities
-<br>-	LED 32” TV 
-<br>-	A refrigerator with complimentary 
-	<br>&nbsp;&nbsp;drinking water
+<br>-	A Master bedroom with toilet,bathtub and separe shower
+<br>-	A second bedroom with toiler and shower
+<br>-	Upper-terrace with swing
+<br>-	Two king-sized beds
+<br>-	French daybed
+<br>-	LAVAZZA coffee machine
+<br>-	A refrigerator with complimentary water and soda
+<br>-	LED TV 42"&LED TV 32" 
+<br>-	Safety deposit box and torch lights
 <br>-	Air-condition
-<br>-	Free wifi
+<br>-	Free Wifi
+
 	        	
 	        	
 	        	
@@ -142,11 +135,28 @@ greenery surrounded.</p>
 					        <li><a class="group1"  href="pic-room/s2.jpg"><img src="pic-room/s2-1.jpg"></a></li>
 					        <li><a class="group1"  href="pic-room/s3.jpg"><img src="pic-room/s3-1.jpg"></a></li>
 					        <li><a class="group1"  href="pic-room/s4.jpg"><img src="pic-room/s4-1.jpg"></a></li>
+
+					      
 				        </ul>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
 		        <!--block-list-wrapper-->
+
+		           <div class="block-list-wrapper">
+			        <div class="block">
+				        
+				        <ul>
+					      
+					       
+					        <li><a class="group1" href="pic-room/s5.jpg"><img src="pic-room/s5-1.jpg"></a></li>
+					        <li><a class="group1"  href="pic-room/s6.jpg"><img src="pic-room/s6-1.jpg"></a></li>
+					        <li><a class="group1"  href="pic-room/s7.jpg"><img src="pic-room/s7-1.jpg"></a></li>
+					        <li><a class="group1"  href="pic-room/s8.jpg"><img src="pic-room/s8-1.jpg"></a></li>
+				        </ul>
+			        </div><!--block-->
+			        <div class="clearfix"></div>
+		        </div>
 		        
 		        
 		        <div class="line"><img src="images/line3.gif"></div>

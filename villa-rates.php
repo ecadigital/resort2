@@ -28,7 +28,7 @@
         
         
         <div id="inner-wrapper">
-	        <h1 class="left">Villa & Rates</h1>
+	        <h1 class="margin">Villa & Rates</h1>
 	     </div>
         <!--inner-wrapper-->
         
@@ -56,7 +56,7 @@
 				        </a>
 			        </div>
 			        <div class="s1">
-				        <h2>Suite Room</h2>
+				        <h2>Two-Bedroom Villa</h2>
 				        <a href="suite-room.php">
 					        <img src="images/h3.jpg">
 					        <div class="readmore">
