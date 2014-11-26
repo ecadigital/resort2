@@ -111,20 +111,19 @@
                     </div>
                 </div>
                 <div class="tiles">
-                    
+                    <div class="tile double-vertical last" style="float: right;">
+                        <a class="group1" href="images/galleryfull/gallery-16.jpg">
+                            <img src="images/gallery-16.jpg" alt="">
+                        </a>
+                    </div>
                     <div class="tile double">
                         <a class="group1" href="images/galleryfull/gallery-14.jpg">
                             <img src="images/gallery-14.jpg" alt="">
                         </a>
                     </div>
-                    <div class="tile">
+                    <div class="tile block">
                         <a class="group1" href="images/galleryfull/gallery-15.jpg">
                             <img src="images/gallery-15.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="tile double-vertical last" style="float: right;">
-                        <a class="group1" href="images/galleryfull/gallery-16.jpg">
-                            <img src="images/gallery-16.jpg" alt="">
                         </a>
                     </div>
                 </div>
