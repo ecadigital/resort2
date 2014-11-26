@@ -338,6 +338,40 @@
                         </a>
                     </div>
                 </div>
+                <div class="tiles">
+                    <div class="tile double-vertical last" style="float: right;">
+                        <a class="group1" href="images/galleryfull/gallery-55.jpg">
+                            <img src="images/gallery-55.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/galleryfull/gallery-56.jpg">
+                            <img src="images/gallery-56.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile">
+                        <a class="group1" href="images/galleryfull/gallery-57.jpg">
+                            <img src="images/gallery-57.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile block">
+                        <a class="group1" href="images/galleryfull/gallery-58.jpg">
+                            <img src="images/gallery-58.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="tiles">
+                    <div class="tile">
+                        <a class="group1" href="images/galleryfull/gallery-59.jpg">
+                            <img src="images/gallery-59.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="tile double block">
+                        <a class="group1" href="images/galleryfull/gallery-60.jpg">
+                            <img src="images/gallery-60.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
 
                 <div class="line"><img src="images/line1.gif"></div>
                 <div class="clearfix"></div>
