@@ -2,25 +2,11 @@ $(document).ready(function(){
 	
 	//lightbox
 				//Examples of how to assign the Colorbox event to elements
-				$(".group1").colorbox({rel:'group1',fixed: true,maxWidth: "100%",maxHeight: "100%",previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"});
-				$(".group2").colorbox({rel:'group2',fixed: true,maxWidth: "100%",maxHeight: "100%",previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"});
-				$(".group3").colorbox({rel:'group3', transition:"none",fixed: true,maxWidth: "100%",maxHeight: "100%",previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"});
-				$(".group4").colorbox({rel:'group4', slideshow:true,previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"});
-				$(".ajax").colorbox();
-				$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
-				$(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
-				$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
-				$(".inline").colorbox({inline:true, width:"50%"});
-				$(".callbacks").colorbox({
-					onOpen:function(){ alert('onOpen: colorbox is about to open'); },
-					onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
-					onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
-					onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
-					onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+				$(".cgroup").each(function(item){
+					item++;
+					$(this).find("a").attr("rel","group"+item);
 				});
-
-				$('.non-retina').colorbox({rel:'group5', transition:'none'})
-				$('.retina').colorbox({rel:'group5', transition:'none', retinaImage:true, retinaUrl:true});
+				$(".cgroup a").colorbox({fixed: true,maxWidth: "100%",maxHeight: "100%",previous: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-left fa-stack-1x fa-inverse\"></i></span>",next: "<span class=\"fa-stack fa-lg fa-2x\"><i class=\"fa fa-circle fa-stack-2x\"></i><i class=\"fa fa-angle-right fa-stack-1x fa-inverse\"></i></span>"});
 				
 				//Example of preserving a JavaScript event for inline calls.
 				$("#click").click(function(){ 

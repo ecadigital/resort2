@@ -137,12 +137,14 @@ greenery surrounded.</p>
 		        <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Sunflower  field</h2>
-				        <ul>
-					        <li><a class="group1" href="pic-room/3_house.jpg"><img src="pic-room/3_house1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/3_front.jpg"><img src="pic-room/3_front1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/3_bed.jpg"><img src="pic-room/3_bed1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/3_restroom.jpg"><img src="pic-room/3_restroom1.jpg"></a></li>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/3_house.jpg"><img src="pic-room/3_house1.jpg"></a></li>
+						        <li><a href="pic-room/3_front.jpg"><img src="pic-room/3_front1.jpg"></a></li>
+						        <li><a href="pic-room/3_bed.jpg"><img src="pic-room/3_bed1.jpg"></a></li>
+						        <li><a href="pic-room/3_restroom.jpg"><img src="pic-room/3_restroom1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
@@ -160,12 +162,14 @@ greenery surrounded.</p>
 			    <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Lavender</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/4_house.jpg"><img src="pic-room/4_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/4_front.jpg"><img src="pic-room/4_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/4_bed.jpg"><img src="pic-room/4_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/4_restroom.jpg"><img src="pic-room/4_restroom1.jpg"></a></li>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/4_house.jpg"><img src="pic-room/4_house1.jpg"></a></li>
+						        <li><a href="pic-room/4_front.jpg"><img src="pic-room/4_front1.jpg"></a></li>
+						        <li><a href="pic-room/4_bed.jpg"><img src="pic-room/4_bed1.jpg"></a></li>
+						        <li><a href="pic-room/4_restroom.jpg"><img src="pic-room/4_restroom1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
@@ -180,13 +184,14 @@ greenery surrounded.</p>
 			    <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>La Mer</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/5_house.jpg"><img src="pic-room/5_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/5_bed.jpg"><img src="pic-room/5_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/5_wall.jpg"><img src="pic-room/5_wall1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/5_restroom.jpg"><img src="pic-room/5_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/5_house.jpg"><img src="pic-room/5_house1.jpg"></a></li>
+						        <li><a href="pic-room/5_bed.jpg"><img src="pic-room/5_bed1.jpg"></a></li>
+						        <li><a href="pic-room/5_wall.jpg"><img src="pic-room/5_wall1.jpg"></a></li>
+						        <li><a href="pic-room/5_restroom.jpg"><img src="pic-room/5_restroom1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
@@ -198,13 +203,14 @@ greenery surrounded.</p>
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Lamon</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/6_house.jpg"><img src="pic-room/6_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/6_front.jpg"><img src="pic-room/6_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/6_bed.jpg"><img src="pic-room/6_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/6_restroom.jpg"><img src="pic-room/6_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/6_house.jpg"><img src="pic-room/6_house1.jpg"></a></li>
+						        <li><a href="pic-room/6_front.jpg"><img src="pic-room/6_front1.jpg"></a></li>
+						        <li><a href="pic-room/6_bed.jpg"><img src="pic-room/6_bed1.jpg"></a></li>
+						        <li><a href="pic-room/6_restroom.jpg"><img src="pic-room/6_restroom1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
@@ -216,14 +222,14 @@ greenery surrounded.</p>
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Voyage</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/7_house.jpg"><img src="pic-room/7_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/7_front.jpg"><img src="pic-room/7_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/7_bed.jpg"><img src="pic-room/7_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/7_restroom.jpg"><img src="pic-room/7_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/7_house.jpg"><img src="pic-room/7_house1.jpg"></a></li>
+						        <li><a href="pic-room/7_front.jpg"><img src="pic-room/7_front1.jpg"></a></li>
+						        <li><a href="pic-room/7_bed.jpg"><img src="pic-room/7_bed1.jpg"></a></li>
+						        <li><a href="pic-room/7_restroom.jpg"><img src="pic-room/7_restroom1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
@@ -234,13 +240,14 @@ greenery surrounded.</p>
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Princess</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/8_house.jpg"><img src="pic-room/8_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/8_front.jpg"><img src="pic-room/8_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/8_bed.jpg"><img src="pic-room/8_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/8_restroom.jpg"><img src="pic-room/8_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/8_house.jpg"><img src="pic-room/8_house1.jpg"></a></li>
+						        <li><a href="pic-room/8_front.jpg"><img src="pic-room/8_front1.jpg"></a></li>
+						        <li><a href="pic-room/8_bed.jpg"><img src="pic-room/8_bed1.jpg"></a></li>
+						        <li><a href="pic-room/8_restroom.jpg"><img src="pic-room/8_restroom1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
@@ -252,13 +259,14 @@ greenery surrounded.</p>
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Artists</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/9_house.jpg"><img src="pic-room/9_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/9_front.jpg"><img src="pic-room/9_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/9_bed.jpg"><img src="pic-room/9_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/9_restroom.jpg"><img src="pic-room/9_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/9_house.jpg"><img src="pic-room/9_house1.jpg"></a></li>
+						        <li><a href="pic-room/9_front.jpg"><img src="pic-room/9_front1.jpg"></a></li>
+						        <li><a href="pic-room/9_bed.jpg"><img src="pic-room/9_bed1.jpg"></a></li>
+						        <li><a href="pic-room/9_restroom.jpg"><img src="pic-room/9_restroom1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
@@ -270,13 +278,14 @@ greenery surrounded.</p>
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Butterfly</h2>
-				        <ul>
-					         <li><a class="group2" href="pic-room/10_house.jpg"><img src="pic-room/10_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/10_bed.jpg"><img src="pic-room/10_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/10_door.jpg"><img src="pic-room/10_door1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/10_restroom.jpg"><img src="pic-room/10_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						         <li><a href="pic-room/10_house.jpg"><img src="pic-room/10_house1.jpg"></a></li>
+						        <li><a href="pic-room/10_bed.jpg"><img src="pic-room/10_bed1.jpg"></a></li>
+						        <li><a href="pic-room/10_door.jpg"><img src="pic-room/10_door1.jpg"></a></li>
+						        <li><a href="pic-room/10_restroom.jpg"><img src="pic-room/10_restroom1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
@@ -288,13 +297,14 @@ greenery surrounded.</p>
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Bonjour</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/14_house.jpg"><img src="pic-room/14_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/14_bed.jpg"><img src="pic-room/14_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/14_wall.jpg"><img src="pic-room/14_wall1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/14_restroom.jpg"><img src="pic-room/14_restroom1.jpg"></a></li>
-				        </ul>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/14_house.jpg"><img src="pic-room/14_house1.jpg"></a></li>
+						        <li><a href="pic-room/14_bed.jpg"><img src="pic-room/14_bed1.jpg"></a></li>
+						        <li><a href="pic-room/14_wall.jpg"><img src="pic-room/14_wall1.jpg"></a></li>
+						        <li><a href="pic-room/14_restroom.jpg"><img src="pic-room/14_restroom1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>

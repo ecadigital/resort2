@@ -131,14 +131,14 @@ greenery surrounded.</p>
 		        <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Suite Room</h2>
-				        <ul>
-					        <li><a class="group1" href="pic-room/s1.jpg"><img src="pic-room/s1-1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/s2.jpg"><img src="pic-room/s2-1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/s3.jpg"><img src="pic-room/s3-1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/s4.jpg"><img src="pic-room/s4-1.jpg"></a></li>
-
-					      
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/s1.jpg"><img src="pic-room/s1-1.jpg"></a></li>
+						        <li><a href="pic-room/s2.jpg"><img src="pic-room/s2-1.jpg"></a></li>
+						        <li><a href="pic-room/s3.jpg"><img src="pic-room/s3-1.jpg"></a></li>
+						        <li><a href="pic-room/s4.jpg"><img src="pic-room/s4-1.jpg"></a></li>
+					        </ul>
+				    	</div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>
@@ -146,15 +146,14 @@ greenery surrounded.</p>
 
 		           <div class="block-list-wrapper">
 			        <div class="block">
-				        
-				        <ul>
-					      
-					       
-					        <li><a class="group1" href="pic-room/s5.jpg"><img src="pic-room/s5-1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/s6.jpg"><img src="pic-room/s6-1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/s7.jpg"><img src="pic-room/s7-1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/s8.jpg"><img src="pic-room/s8-1.jpg"></a></li>
-				        </ul>
+				        <div class="cgroup">
+					        <ul>
+						        <li><a href="pic-room/s5.jpg"><img src="pic-room/s5-1.jpg"></a></li>
+						        <li><a href="pic-room/s6.jpg"><img src="pic-room/s6-1.jpg"></a></li>
+						        <li><a href="pic-room/s7.jpg"><img src="pic-room/s7-1.jpg"></a></li>
+						        <li><a href="pic-room/s8.jpg"><img src="pic-room/s8-1.jpg"></a></li>
+					        </ul>
+				        </div>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
 		        </div>

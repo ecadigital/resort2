@@ -123,11 +123,11 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 		        <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Wing</h2>
-				        <ul>
-					        <li><a class="group1" href="pic-room/1_house.jpg"><img src="pic-room/1_house1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/1_front.jpg"><img src="pic-room/1_front1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/1_bed.jpg"><img src="pic-room/1_bed1.jpg"></a></li>
-					        <li><a class="group1"  href="pic-room/1_restroom.jpg"><img src="pic-room/1_restroom1.jpg"></a></li>
+				        <ul class="cgroup">
+					        <li><a href="pic-room/1_house.jpg"><img src="pic-room/1_house1.jpg"></a></li>
+					        <li><a href="pic-room/1_front.jpg"><img src="pic-room/1_front1.jpg"></a></li>
+					        <li><a href="pic-room/1_bed.jpg"><img src="pic-room/1_bed1.jpg"></a></li>
+					        <li><a href="pic-room/1_restroom.jpg"><img src="pic-room/1_restroom1.jpg"></a></li>
 				        </ul>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
@@ -146,11 +146,11 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 			    <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Les Fleurs</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/2_house.jpg"><img src="pic-room/2_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/2_front.jpg"><img src="pic-room/2_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/2_bed.jpg"><img src="pic-room/2_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/2_restroom.jpg"><img src="pic-room/2_restroom1.jpg"></a></li>
+				        <ul class="cgroup">
+					        <li><a href="pic-room/2_house.jpg"><img src="pic-room/2_house1.jpg"></a></li>
+					        <li><a href="pic-room/2_front.jpg"><img src="pic-room/2_front1.jpg"></a></li>
+					        <li><a href="pic-room/2_bed.jpg"><img src="pic-room/2_bed1.jpg"></a></li>
+					        <li><a href="pic-room/2_restroom.jpg"><img src="pic-room/2_restroom1.jpg"></a></li>
 				        </ul>
 			        </div><!--block-->
 			        <div class="clearfix"></div>
@@ -158,7 +158,10 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 		        <!--block-list-wrapper-->
 		        
 		        
-		        <div class="line"><img src="images/line1.gif"></div>
+		        <div class="line"><img src="images/line1
+
+
+.gif"></div>
 			    
 			    
 			    
@@ -166,11 +169,11 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 			    <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Princess</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/8_house.jpg"><img src="pic-room/8_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/8_front.jpg"><img src="pic-room/8_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/8_bed.jpg"><img src="pic-room/8_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/8_restroom.jpg"><img src="pic-room/8_restroom1.jpg"></a></li>
+				        <ul class="cgroup">
+					        <li><a href="pic-room/8_house.jpg"><img src="pic-room/8_house1.jpg"></a></li>
+					        <li><a href="pic-room/8_front.jpg"><img src="pic-room/8_front1.jpg"></a></li>
+					        <li><a href="pic-room/8_bed.jpg"><img src="pic-room/8_bed1.jpg"></a></li>
+					        <li><a href="pic-room/8_restroom.jpg"><img src="pic-room/8_restroom1.jpg"></a></li>
 				        </ul>
 				        </ul>
 			        </div><!--block-->
@@ -184,11 +187,11 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Rose</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/11_house.jpg"><img src="pic-room/11_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/11_front.jpg"><img src="pic-room/11_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/11_bed.jpg"><img src="pic-room/11_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/11_restroom.jpg"><img src="pic-room/11_restroom1.jpg"></a></li>
+				        <ul class="cgroup">
+					        <li><a href="pic-room/11_house.jpg"><img src="pic-room/11_house1.jpg"></a></li>
+					        <li><a href="pic-room/11_front.jpg"><img src="pic-room/11_front1.jpg"></a></li>
+					        <li><a href="pic-room/11_bed.jpg"><img src="pic-room/11_bed1.jpg"></a></li>
+					        <li><a href="pic-room/11_restroom.jpg"><img src="pic-room/11_restroom1.jpg"></a></li>
 				        </ul>
 				        </ul>
 			        </div><!--block-->
@@ -202,11 +205,11 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>In Love</h2>
-				        <ul> 
-					        <li><a class="group2" href="pic-room/12_house.jpg"><img src="pic-room/12_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/12_front.jpg"><img src="pic-room/12_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/12_bed.jpg"><img src="pic-room/12_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/12_restroom.jpg"><img src="pic-room/12_restroom1.jpg"></a></li>
+				        <ul class="cgroup"> 
+					        <li><a href="pic-room/12_house.jpg"><img src="pic-room/12_house1.jpg"></a></li>
+					        <li><a href="pic-room/12_front.jpg"><img src="pic-room/12_front1.jpg"></a></li>
+					        <li><a href="pic-room/12_bed.jpg"><img src="pic-room/12_bed1.jpg"></a></li>
+					        <li><a href="pic-room/12_restroom.jpg"><img src="pic-room/12_restroom1.jpg"></a></li>
 				        </ul>
 				        </ul>
 				        </ul>
@@ -221,11 +224,11 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Olive</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/15_house.jpg"><img src="pic-room/15_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/15_front.jpg"><img src="pic-room/15_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/15_bed.jpg"><img src="pic-room/15_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/15_restroom.jpg"><img src="pic-room/15_restroom1.jpg"></a></li>
+				        <ul class="cgroup">
+					        <li><a href="pic-room/15_house.jpg"><img src="pic-room/15_house1.jpg"></a></li>
+					        <li><a href="pic-room/15_front.jpg"><img src="pic-room/15_front1.jpg"></a></li>
+					        <li><a href="pic-room/15_bed.jpg"><img src="pic-room/15_bed1.jpg"></a></li>
+					        <li><a href="pic-room/15_restroom.jpg"><img src="pic-room/15_restroom1.jpg"></a></li>
 				        </ul>
 				        </ul>
 			        </div><!--block-->
@@ -239,11 +242,11 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 			     <div class="block-list-wrapper">
 			        <div class="block">
 				        <h2>Angle</h2>
-				        <ul>
-					        <li><a class="group2" href="pic-room/16_house.jpg"><img src="pic-room/16_house1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/16_front.jpg"><img src="pic-room/16_front1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/16_bed.jpg"><img src="pic-room/16_bed1.jpg"></a></li>
-					        <li><a class="group2"  href="pic-room/16_restroom.jpg"><img src="pic-room/16_restroom1.jpg"></a></li>
+				        <ul class="cgroup">
+					        <li><a href="pic-room/16_house.jpg"><img src="pic-room/16_house1.jpg"></a></li>
+					        <li><a href="pic-room/16_front.jpg"><img src="pic-room/16_front1.jpg"></a></li>
+					        <li><a href="pic-room/16_bed.jpg"><img src="pic-room/16_bed1.jpg"></a></li>
+					        <li><a href="pic-room/16_restroom.jpg"><img src="pic-room/16_restroom1.jpg"></a></li>
 				        </ul>
 				        </ul>
 			        </div><!--block-->
