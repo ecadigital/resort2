@@ -136,7 +136,7 @@ greenery surrounded.</p>
 		        
 		        <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Sunflower  field</h2>
+				        <h2 id="sunflower">Sunflower  field</h2>
 				        <div class="cgroup">
 					        <ul>
 						        <li><a href="pic-room/3_house.jpg"><img src="pic-room/3_house1.jpg"></a></li>
@@ -161,7 +161,7 @@ greenery surrounded.</p>
 			    
 			    <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Lavender</h2>
+				        <h2 id="lavender">Lavender</h2>
 				        <div class="cgroup">
 					        <ul>
 						        <li><a href="pic-room/4_house.jpg"><img src="pic-room/4_house1.jpg"></a></li>
@@ -183,7 +183,7 @@ greenery surrounded.</p>
 			    
 			    <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>La Mer</h2>
+				        <h2  id="lamer">La Mer</h2>
 				        <div class="cgroup">
 					        <ul>
 						        <li><a href="pic-room/5_house.jpg"><img src="pic-room/5_house1.jpg"></a></li>
@@ -202,7 +202,7 @@ greenery surrounded.</p>
 
 			     <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Lamon</h2>
+				        <h2 id="lamon">Lamon</h2>
 				        <div class="cgroup">
 					        <ul>
 						        <li><a href="pic-room/6_house.jpg"><img src="pic-room/6_house1.jpg"></a></li>
@@ -221,7 +221,7 @@ greenery surrounded.</p>
 
 			     <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Voyage</h2>
+				        <h2 id="voyage">Voyage</h2>
 				        <div class="cgroup">
 					        <ul>
 						        <li><a href="pic-room/7_house.jpg"><img src="pic-room/7_house1.jpg"></a></li>
@@ -258,7 +258,7 @@ greenery surrounded.</p>
 
 			     <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Artists</h2>
+				        <h2 id="artists">Artists</h2>
 				        <div class="cgroup">
 					        <ul>
 						        <li><a href="pic-room/9_house.jpg"><img src="pic-room/9_house1.jpg"></a></li>
@@ -277,7 +277,7 @@ greenery surrounded.</p>
 
 			     <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Butterfly</h2>
+				        <h2 id="butterfly">Butterfly</h2>
 				        <div class="cgroup">
 					        <ul>
 						         <li><a href="pic-room/10_house.jpg"><img src="pic-room/10_house1.jpg"></a></li>
@@ -296,7 +296,7 @@ greenery surrounded.</p>
 
 			     <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Bonjour</h2>
+				        <h2 id="bonjour">Bonjour</h2>
 				        <div class="cgroup">
 					        <ul>
 						        <li><a href="pic-room/14_house.jpg"><img src="pic-room/14_house1.jpg"></a></li>

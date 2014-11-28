@@ -977,5 +977,8 @@ hgroup h3{
 .container img{
 	max-width: 100%;
 }
+map area{
+	outline: none;
+}
 
 /* end jame custom */

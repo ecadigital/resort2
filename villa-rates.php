@@ -80,8 +80,26 @@
 		         <div id="area-wrapper">
 		        	<!-- <div id="n1"><img src="images/n1.png"></div>
 		        	<div id="n2"><img src="images/n2.png"></div> -->
-			        <img id="pc" src="images/area.jpg">
+			        <img id="pc" src="images/area.jpg" usemap="#areapoint" width="1162" height="795">
 			        <img id="mob" src="images/area-mobile.jpg">
+			        <map name="areapoint">
+			        	<area shape="rect" coords="583, 153, 718, 174" href="suite-room.php#suite" />
+					    <area shape="circle" coords="892, 210, 19" href="deluxe-villa.php#wing" />
+					    <area shape="circle" coords="837, 250, 18" href="deluxe-villa.php#lesfleurs" />
+					    <area shape="circle" coords="743, 294, 20" href="superior-villa.php#lavender" />
+					    <area shape="circle" coords="707, 217, 19" href="superior-villa.php#sunflower" />
+					    <area shape="circle" coords="621, 309, 20" href="superior-villa.php#lamon" />
+					    <area shape="circle" coords="535, 211, 21" href="superior-villa.php#lamer" />
+					    <area shape="circle" coords="518, 345, 20" href="superior-villa.php#artists" />
+					    <area shape="circle" coords="475, 232, 19" href="superior-villa.php#voyage" />
+					    <area shape="circle" coords="434, 375, 19" href="superior-villa.php#butterfly" />
+					    <area shape="circle" coords="381, 256, 18" href="deluxe-villa.php#princess" />
+					    <area shape="circle" coords="337, 372, 19" href="deluxe-villa.php#rose" />
+					    <area shape="circle" coords="273, 274, 19" href="superior-villa.php#bonjour" />
+					    <area shape="circle" coords="141, 486, 19" href="deluxe-villa.php#inlove" />
+					    <area shape="circle" coords="141, 315, 21" href="deluxe-villa.php#olive" />
+					    <area shape="circle" coords="54, 278, 20" href="deluxe-villa.php#angle" />
+					</map>
 		        </div>
 		        <!--area-wrapper-->
 		        

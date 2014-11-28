@@ -130,7 +130,7 @@ greenery surrounded.</p>
 		        
 		        <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2>Suite Room</h2>
+				        <h2 id="suite">Suite Room</h2>
 				        <div class="cgroup">
 					        <ul>
 						        <li><a href="pic-room/s1.jpg"><img src="pic-room/s1-1.jpg"></a></li>

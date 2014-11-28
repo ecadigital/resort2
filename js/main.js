@@ -72,8 +72,12 @@ $(document).ready(function(){
                 //});
     });
 	
-	
-	
-	
-	
+	$("img[usemap]").rwdImageMaps();
+
+	var iAmHash = window.location.hash;
+	if (iAmHash !== "" && $(iAmHash).length !== 0){
+		$('html, body').animate({
+	        scrollTop: $(iAmHash).offset().top
+	    }, 2000);
+    }
 });
