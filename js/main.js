@@ -76,8 +76,8 @@ $(document).ready(function(){
 	var iAmHash = window.location.hash;
 	$(iAmHash).ScrollTo({
 		duration: 2000,
-		offsetTop: 130,
-    	easing: 'linear'
+		offsetTop: 130
+    	// easing: 'linear'
     });
 	// if (iAmHash !== "" && $(iAmHash).length !== 0){
 	// 	console.log($(iAmHash).offset());
