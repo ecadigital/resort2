@@ -73,11 +73,16 @@ $(document).ready(function(){
     });
 	
 	$("img[usemap]").rwdImageMaps();
-
 	var iAmHash = window.location.hash;
-	if (iAmHash !== "" && $(iAmHash).length !== 0){
-		$('html, body').animate({
-	        scrollTop: $(iAmHash).offset().top-130
-	    }, 2000);
-    }
+	$(iAmHash).ScrollTo({
+		duration: 2000,
+		offsetTop: 130,
+    	easing: 'linear'
+    });
+	// if (iAmHash !== "" && $(iAmHash).length !== 0){
+	// 	console.log($(iAmHash).offset());
+	// 	$('html, body').animate({
+	//         scrollTop: $(iAmHash).offset().top-130
+	//     }, 2000);
+ //    }
 });
