@@ -160,22 +160,7 @@
              <div class="clearfix"></div>
                  <div class="line"><img src="images/line3.gif"></div>
                  <div class="clearfix"></div>
-            <div id="as-left">
-             <h1 class="left">Activities <br>
-                & Services</h1>
-                <h2 class="h2small">1.  Half-day trip to Huay Kok Moo 
-    plus Kayak<br><br>
-2.  ……..</h2>
-                </div>
-            <div id="as-right">
-               <div id="as-img1" class="overflow"><img src="img/as-img1.jpg">
-            </div>
-             <div id="as-img2" class="overflow"><img src="img/as-img2.jpg">
-            </div>
-        </div>
-
-                <div class="clearfix"></div>
-                 <div class="line"><img src="images/line1.gif"></div>
+         
 
 
         <div class="gotop">
