@@ -77,7 +77,7 @@ $(document).ready(function(){
 	var iAmHash = window.location.hash;
 	if (iAmHash !== "" && $(iAmHash).length !== 0){
 		$('html, body').animate({
-	        scrollTop: $(iAmHash).offset().top
+	        scrollTop: $(iAmHash).offset().top-130
 	    }, 2000);
     }
 });
