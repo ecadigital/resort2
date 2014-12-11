@@ -65,28 +65,21 @@
 	        	
 	        	
 	        	
+
+
+	        	
 	        	<h5>A Superior Villa consists of ;</h5>
 	        	
 <br>-	A queen-sized bed
-<br>-	Bedside tables with lamps
-<br>-	Bathroom with head shower 
-	<br>&nbsp;&nbsp;and hot water (in shower area only) 
-<br>-	Washbasin and toilet
-<br>-	Wardrope with bathrobes, slippers, 
-	<br>&nbsp;&nbsp;hangers and two umbrellas
-<br>-	Torch light
-<br>-	Safety box
-<br>-	Sofa bed size 80 x 180 cm 
-<br>-	One coffee table
-<br>-	A terrace with sitting area
-<br>-	An upper-deck
-<br>-	Coffee and tea making facilities
-<br>-	LED 32” TV 
-<br>-	A refrigerator with complimentary 
-	<br>&nbsp;&nbsp;drinking water
-<br>-	Air-condition
+<br>-   Front terrace and upper-deck with wooden bench
+<br>-	Living area with day-bed size 80 x 180 cm. 
+<br>-	Bathroom with shower, hot water and full amenities
+<br>-	LED TV 32"
+<br>-	Safety deposit box with torch light
+<br>-	Coffee and tea making facilities, refrigerator
+<br>-	Air-conditioning 
 <br>-	Free wifi
-	        	
+
 	        	
 	        	
 				        </div>

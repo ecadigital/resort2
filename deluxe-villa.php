@@ -49,9 +49,7 @@
 	       
 			        <p>
 				        
-	Located next to flower field,all Deluxe Villars of50 sqm
-	are built with upper-deck,front
-balconyand French window opens to living area. Each villa decorated in vintage style. </p>
+	Located next to flower field, all Deluxe Villas of 50 sqm. are built with upper-deck, front terrace and doors open to living area.  All villas decorated in vintage style and offer a closer touch of nature. </p>
 	
 
 
@@ -71,18 +69,15 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 	        	<h5>A Delux Villa consists of ;</h5>
 	        	
 <br>-	A queen-sized bed
-<br>-	Bathroom with bathtub
+<br>-	Front terrace and upper-deck with wooden bench
+<br>-	Living area with day-bed size 80 x 180 cm.
+<br>-	Bathroom with bathtub, hot water and full amenities
+<br>-	LED TV 32"
 <br>-	Safety deposit box with torch light
-<br>-	Sofa bed size 80 x 180 cm 
-<br>-	A terrace with sitting area
-<br>-	An upper-deck
-<br>-	Coffee and tea making facilities
-<br>-	LED 32” TV 
-<br>-	A refrigerator 
+<br>-	Coffee and tea making facilities, refrigerator
 <br>-	Air-condition
 <br>-	Free wifi
-	        	
-	        	
+	
 	        	
 				        </div>
 				        <div class="clearfix"></div>
@@ -204,7 +199,7 @@ balconyand French window opens to living area. Each villa decorated in vintage s
 
 			     <div class="block-list-wrapper">
 			        <div class="block">
-				        <h2 id="inlove">In Love</h2>
+				        <h2 id="inlove">In Love with Blue and White</h2>
 				        <ul class="cgroup"> 
 					        <li><a href="pic-room/12_house.jpg"><img src="pic-room/12_house1.jpg"></a></li>
 					        <li><a href="pic-room/12_front.jpg"><img src="pic-room/12_front1.jpg"></a></li>
