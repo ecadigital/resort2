@@ -48,16 +48,8 @@
 	       
 	       
 			        <p>
-				        
-	A 50 sqm. studio villa separated to 
-upper and lower area by 2 footsteps.  </p>
-	<p>A bathroom of 6 sqm designed with perfect area fitted with washbasin, 
-shower and toilet. </p>
-	<p>A south-facing terrace of 9 sqm. 
-with iron chairs and table plus a spiral staircase lead to upper-deck with 3 meters-length wooden couch 
-are well designed for guests to look 
-out over a vast field of flowers and 
-greenery surrounded.</p>
+	A 50 sqm. studio villa separated to upper and lower area by 2 footsteps. A south-facing terrace with iron chairs plus a spiral staircase leads to upper-deck designated for guests to look out over a vast field of flowers and greenery.</p> 			        
+	
 
 
 			        
